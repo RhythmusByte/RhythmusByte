@@ -1,12 +1,12 @@
 <h1>Welcome</h1>
 <p>Hey Folk's Welcome to my <a href="https://github.com/Akhil-Mahesh">GitHub</a> Profile.</p>
+
 <hr>
+
 <div style="text-align:center;">
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coding Gif" width="480" height="200">
 </div>
-<hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhil-Mahesh&theme=chartreuse-dark)](https://git.io/streak-stats)
 <hr>
 
 <details>
@@ -20,7 +20,9 @@
 </ul>
 </p>
 </details>
+
 <hr>
+
 <details>
 <summary>Card</summary>
 <p>
@@ -29,4 +31,14 @@
 </a>
 </p>
 </details>
+<hr>
+
+<details>
+<summary>Streak & Stats</summary>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Akhil-Mahesh&theme=black-ice&hide_border=true&stroke=00FF00&background=000000&ring=00FF00&fire=00FF00&currStreakNum=00FF00"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Mahesh&theme=black-ice&show_icons=true&hide_border=true&icon_color=00FF00&text_color=00FF00&bg_color=000000"/>
+</div>
+
 <hr>
