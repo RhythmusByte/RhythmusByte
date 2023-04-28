@@ -61,3 +61,7 @@
 </p>
 </details>
 <hr>
+<ul>
+<li>For code used in this readme <a href="./codes.html">Click Here</a></li>
+</ul>
+<hr>
