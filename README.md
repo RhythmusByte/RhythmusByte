@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**Akhil-Mahesh/Akhil-Mahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Welcome</h1>
+<p>Hey Folk's Welcome to my <a href="https://github.com/Akhil-Mahesh">GitHub</a> Profile.</p>
+<hr>
+<div style="text-align:center;">
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coding Gif" width="480" height="200">
+</div>
+<hr>
+<details>
+<summary>About Me</summary>
+<p>
+<ul>
+<li>I'm Akhil Mahesh</li>
+<li>I'm from <a href="https://g.co/kgs/GN49SK">Thiruvananthapuram</a>, Kerala</li>
+<li>I'm a 2nd year BCA student at <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=http://gctanur.ac.in/">GCT</a> Malappuram </li>
+<li>Visit my <a href="https://itzmeakhilmahesh.blogspot.com">Blogspot</a> for more</li>
+</ul>
+</p>
+</details>
