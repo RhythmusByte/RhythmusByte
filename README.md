@@ -40,5 +40,17 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Akhil-Mahesh&theme=black-ice&hide_border=true&stroke=00FF00&background=000000&ring=00FF00&fire=00FF00&currStreakNum=00FF00"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Mahesh&theme=black-ice&show_icons=true&hide_border=true&icon_color=00FF00&text_color=00FF00&bg_color=000000"/>
 </div>
+</details>
 
+<hr>
+
+<details>
+<summary>My Social Media's</summary>
+<p align="left">
+  <a href="https://www.youtube.com/AlonePhilic"><img src="https://img.shields.io/badge/YouTube-AlonePhilic-red?style=flat-square&logo=youtube"></a>
+  <a href="https://instagram.com/alone.philic"><img src="https://img.shields.io/badge/Instagram-alone.philic-pink?style=flat-square&logo=instagram"></a>
+  <a href="https://instagram.com/akhi_akxu"><img src="https://img.shields.io/badge/Instagram-akhi__akxu-orange?style=flat-square&logo=instagram"></a>
+  <a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?style=flat-square&logo=blogger"></a>
+</p>
+</details>
 <hr>
