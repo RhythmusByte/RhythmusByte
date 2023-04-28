@@ -16,7 +16,7 @@
 <li>I'm Akhil Mahesh</li>
 <li>I'm from <a href="https://g.co/kgs/GN49SK">Thiruvananthapuram</a>, Kerala</li>
 <li>I'm a 2nd year BCA student at <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=http://gctanur.ac.in/">GCT</a> Malappuram </li>
-<li>Visit my <a href="https://itzmeakhilmahesh.blogspot.com">Blogspot</a> for more</li>
+<li>Visit my <a href="https://itzmeakhilmahesh.blogspot.com/2023/04/my-profile.html?m=1">Blogspot</a> for more</li>
 </ul>
 </p>
 </details>
