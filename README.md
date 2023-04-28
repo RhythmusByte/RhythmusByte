@@ -54,3 +54,10 @@
 </p>
 </details>
 <hr>
+<details>
+    <summary>Reach Me</summary>
+<p align="left" style="background-color:black">
+  <a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+</details>
+<hr>
