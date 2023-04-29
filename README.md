@@ -33,26 +33,31 @@
 <!-- Buttons Section -->
 
 <p align="center">
-
+    
+<ul>
+    
 <!-- YouTube Button -->
 
-<a href="https://www.youtube.com/AlonePhilic"><img src="https://img.shields.io/badge/YouTube-AlonePhilic-red?style=flat-square&logo=youtube"></a>
+<li><a href="https://www.youtube.com/AlonePhilic"><img src="https://img.shields.io/badge/YouTube-AlonePhilic-red?style=flat-square&logo=youtube"></a></li>
 
 <!-- Instagram Button -->
 
-<a href="https://instagram.com/alone.philic"><img src="https://img.shields.io/badge/Instagram-alone.philic-pink?style=flat-square&logo=instagram"></a>
+<li><a href="https://instagram.com/alone.philic"><img src="https://img.shields.io/badge/Instagram-alone.philic-pink?style=flat-square&logo=instagram"></a></li>
 
 <!-- Instagram Button -->
 
-<a href="https://instagram.com/akhi_akxu"><img src="https://img.shields.io/badge/Instagram-akhi__akxu-orange?style=flat-square&logo=instagram"></a>
+<li><a href="https://instagram.com/akhi_akxu"><img src="https://img.shields.io/badge/Instagram-akhi__akxu-orange?style=flat-square&logo=instagram"></a></li>
 
 <!-- Blogspot Button -->
 
-<a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?style=flat-square&logo=blogger"></a>
+<li><a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?style=flat-square&logo=blogger"></a></li>
 
 <!-- Mail Button -->
 
-<a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-blue?style=flat-square&logo=gmail"></a> 
+<li><a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-blue?style=flat-square&logo=gmail"></a></li>
+
+</ul>
+ 
 </p>
 
 ---
@@ -96,6 +101,10 @@
 </a>
  
 ---
+
+<h5>
+For my github profile readme code <a href="https://github.com/Akhil-Mahesh/Akhil-Mahesh/tree/b85f2a6de2a4eb6b0c4ed38928344f90c820f925/Codes">click me</a> you will also get the previous versions of my profile readme
+</h5>
 
 <!-- Conclusion -->
 <!-- Last edited: 29/04/2023 -->
