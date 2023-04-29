@@ -61,7 +61,12 @@
 </p>
 </details>
 <hr>
-<ul>
-<li>For code used in this readme <a href="./codes.html">Click Here</a></li>
-</ul>
+<details>
+    <summary>Conclusion</summary>
+<p>Thank You for visiting my git. Don't forget to give a star.</p>
+<hr>
+<p align="left">
+    For code used in this readme <a href="./codes.html">Click</a>
+</p>
+</details>
 <hr>
