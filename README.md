@@ -17,8 +17,8 @@
 
 <!-- About Me Section -->
 
-<h3 align="left">
-<img src="https://media.giphy.com/media/3HE6QKdb3jLDLZJME1/giphy.gif" alt="About Me Gif" width="30" height="20">About Me</h3>
+<details>
+<summary><img src="https://media.giphy.com/media/3HE6QKdb3jLDLZJME1/giphy.gif" alt="About Me Gif" width="30" height="20">About Me</h3></summary>
 
 <ul>
     <li>I'm Akhil Mahesh</li>
@@ -27,11 +27,24 @@
     <li>Currently, I am enrolled in a Calicut University affiliated college at Tanur, Malappuram pursuing my Bachelor of Computer Application degree.</li>
     <li>For more about me visit my <a href="https://itzmeakhilmahesh.blogspot.com/2023/04/my-profile.html?m=1">blogspot</a>.</li>
 </ul>
+</details>
 
 ---
 
+<!-- My Repositories -->
+
+<details>
+<summary>My Projects</summary>
+<ul>
+<li><a href="https://github.com/Akhil-Mahesh/Calculator"><img src="https://img.shields.io/badge/Check%20out-My%20Calculator-blue"></a>
+</li>
+</ul>    
+</details>
+
 <!-- Buttons Section -->
 
+<details>
+<summary>Social Media's</summary>
 <p align="center">
     
 <ul>
@@ -59,13 +72,14 @@
 </ul>
  
 </p>
+</details>
 
 ---
 
 <!-- GitHub Stats -->
 
-<h3 align="left">
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" alt="Stats Gif" width="30" height="30"> GitHub Stats</h3>
+<details>
+<summary><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" alt="Stats Gif" width="30" height="30"> GitHub Stats</h3></summary>
 
 <div align="center">  
     
@@ -86,6 +100,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Mahesh&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&langs_count=10" /> 
    
 </div>
+</details>
 
 ---
 
