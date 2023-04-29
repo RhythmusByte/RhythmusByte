@@ -22,26 +22,15 @@
 
 ---
 
-<div style="text-align:center;">
-  <!-- Facebook button -->
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/Akhil-Mahesh" target="_blank"><img src="https://image.flaticon.com/icons/svg/145/145802.svg" alt="Facebook logo"></a>
-
-  <!-- Email button -->
-  <a href="mailto:?subject=Check%20out%20this%20GitHub%20profile&amp;body=https://github.com/Akhil-Mahesh"><img src="https://image.flaticon.com/icons/svg/732/732200.svg" alt="Email logo"></a>
-
-  <!-- Pinterest button -->
-  <a href="https://www.pinterest.com/pin/create/button/?url=https://github.com/Akhil-Mahesh&amp;media=&amp;description=" target="_blank"><img src="https://image.flaticon.com/icons/svg/174/174876.svg" alt="Pinterest logo"></a>
-
-  <!-- Telegram button -->
-  <a href="https://telegram.me/share/url?url=https://github.com/Akhil-Mahesh&amp;text=Check%20out%20this%20GitHub%20profile" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111646.svg" alt="Telegram logo"></a>
-
-  <!-- Instagram button -->
-  <a href="https://www.instagram.com/?url=https://github.com/Akhil-Mahesh" target="_blank"><img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" alt="Instagram logo"></a>
-  
+<p align="left">   
+  <a href="https://www.youtube.com/AlonePhilic"><img src="https://img.shields.io/badge/YouTube-AlonePhilic-red?style=flat-square&logo=youtube"></a>   
+     <a href="https://instagram.com/alone.philic"><img src="https://img.shields.io/badge/Instagram-alone.philic-pink?style=flat-square&logo=instagram"></a>   
+     <a href="https://instagram.com/akhi_akxu"><img src="https://img.shields.io/badge/Instagram-akhi__akxu-orange?style=flat-square&logo=instagram"></a>   
+     <a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?style=flat-square&logo=blogger"></a>  
   <!-- Mail Button -->
      <a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-blue?style=flat-square&logo=gmail"></a> 
-     
-</div>
+</p>
+
 
 ---
 
