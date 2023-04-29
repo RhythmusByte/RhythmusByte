@@ -32,7 +32,7 @@
 
 <!-- Buttons Section -->
 
-<p align="left">
+<p align="center">
 
 <!-- YouTube Button -->
 
