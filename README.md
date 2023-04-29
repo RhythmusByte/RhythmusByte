@@ -4,7 +4,7 @@
 
 <!-- Typing SVG -->
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC&size=24&pause=1000&width=435&lines=Welcome+to+my+git." alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://www.youtube.com/AlonePhilic"><img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC&size=24&pause=1000&width=435&lines=Welcome+to+my+git." alt="Typing SVG" /></a></h2>
 
 ---
 
