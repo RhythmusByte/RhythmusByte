@@ -33,16 +33,26 @@
 <!-- Buttons Section -->
 
 <p align="left">
-       <!-- YouTube Button -->
-  <a href="https://www.youtube.com/AlonePhilic"><img src="https://img.shields.io/badge/YouTube-AlonePhilic-red?style=flat-square&logo=youtube"></a>
-      <!-- Instagram Button -->
-     <a href="https://instagram.com/alone.philic"><img src="https://img.shields.io/badge/Instagram-alone.philic-pink?style=flat-square&logo=instagram"></a>
-     <!-- Instagram Button -->
-     <a href="https://instagram.com/akhi_akxu"><img src="https://img.shields.io/badge/Instagram-akhi__akxu-orange?style=flat-square&logo=instagram"></a>
-     <!-- Blogspot Button --> 
-     <a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?style=flat-square&logo=blogger"></a>  
-  <!-- Mail Button -->
-     <a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-blue?style=flat-square&logo=gmail"></a> 
+
+<!-- YouTube Button -->
+
+<a href="https://www.youtube.com/AlonePhilic"><img src="https://img.shields.io/badge/YouTube-AlonePhilic-red?style=flat-square&logo=youtube"></a>
+
+<!-- Instagram Button -->
+
+<a href="https://instagram.com/alone.philic"><img src="https://img.shields.io/badge/Instagram-alone.philic-pink?style=flat-square&logo=instagram"></a>
+
+<!-- Instagram Button -->
+
+<a href="https://instagram.com/akhi_akxu"><img src="https://img.shields.io/badge/Instagram-akhi__akxu-orange?style=flat-square&logo=instagram"></a>
+
+<!-- Blogspot Button -->
+
+<a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?style=flat-square&logo=blogger"></a>
+
+<!-- Mail Button -->
+
+<a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-blue?style=flat-square&logo=gmail"></a> 
 </p>
 
 ---
@@ -54,19 +64,19 @@
 
 <div align="center">  
     
-    <!-- GitHub Streak -->
+<!-- GitHub Streak -->
     
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Akhil-Mahesh&theme=black-ice&hide_border=true&stroke=00FF00&background=000000&ring=00FF00&fire=00FF00&currStreakNum=00FF00"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Akhil-Mahesh&theme=black-ice&hide_border=true&stroke=00FF00&background=000000&ring=00FF00&fire=00FF00&currStreakNum=00FF00"/>
       
 <hr> 
 
-    <!-- GitHub Stats -->
+<!-- GitHub Stats -->
     
       <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Mahesh&theme=black-ice&show_icons=true&hide_border=true&icon_color=00FF00&text_color=00FF00&bg_color=000000"/>
       
 <hr> 
 
-    <!-- Git Used Langs -->
+<!-- Git Used Langs -->
     
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Mahesh&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&langs_count=10" /> 
    
@@ -74,20 +84,20 @@
 
 ---
 
-    <!-- Spotify Section -->
+<!-- Spotify Section -->
 
 <h3 align="left">
 <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" alt="headphones-spongebob-squarepants" width="30" height="30"> Spotify</h3>
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true"> 
   
-   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0000ff&bar_color_cover=false" alt="Spotify Now Playing" /> 
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0000ff&bar_color_cover=false" alt="Spotify Now Playing" /> 
   
 </a>
  
 ---
 
-    <!-- Conclusion -->
-    <!-- Last edited: 29/04/2023 -->
-    <!-- Older Version Readme codes in repo go check it out -->
-    <!-- Don't forget to give a star. -->
+<!-- Conclusion -->
+<!-- Last edited: 29/04/2023 -->
+<!-- Older Version Readme codes in repo go check it out -->
+<!-- Don't forget to give a star. -->
