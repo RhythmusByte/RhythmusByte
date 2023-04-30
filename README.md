@@ -55,7 +55,7 @@
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Mahesh&theme=black-ice&show_icons=true&hide_border=true&icon_color=00FF00&text_color=00FF00&bg_color=000000"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Mahesh&theme=black-ice&show_icons=true&hide_border=true&rank_icon=github&icon_color=00FF00&text_color=00FF00&bg_color=000000"/>  
 
 ---
 
