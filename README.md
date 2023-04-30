@@ -16,6 +16,8 @@
 
 <img src="https://img.shields.io/github/followers/Akhil-Mahesh?color=darkgreen&style=plastic" alt="GitHub followers">
 
+<a href="https://github.com/Akhil-Mahesh"><img src="https://img.shields.io/badge/GitHub-Akhil--Mahesh-black?style=plastic&logo=github"></a>
+    
 <img src="https://img.shields.io/github/stars/Akhil-Mahesh?color=black&style=plastic" alt="GitHub User's stars">
 
 <a href="https://www.youtube.com/AlonePhilic"><img src="https://img.shields.io/badge/YouTube-AlonePhilic-red?&style=plastic&logo=youtube" alt="YouTube"></a>
