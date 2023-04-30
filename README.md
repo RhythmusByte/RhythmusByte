@@ -10,35 +10,19 @@
 
 ---
 
-<div align="center">
-
-    
-
-<img src="https://img.shields.io/github/followers/Akhil-Mahesh?color=darkgreen&style=plastic" alt="GitHub followers">
-    
-<img src="https://img.shields.io/github/stars/Akhil-Mahesh?color=black&style=plastic" alt="GitHub User's stars">
-
- <a href="https://github.com/Akhil-Mahesh"><img src="https://img.shields.io/badge/GitHub-Akhil--Mahesh-black?style=plastic&logo=github"></a>
-
-<a href="https://www.youtube.com/AlonePhilic"><img src="https://img.shields.io/badge/YouTube-AlonePhilic-red?&style=plastic&logo=youtube" alt="YouTube"></a>
-
-<a href="https://instagram.com/alone.philic"><img src="https://img.shields.io/badge/Instagram-alone.philic-pink?&style=plastic&logo=instagram" alt="Instagram"></a>
-
-<a href="https://instagram.com/akhi_akxu"><img src="https://img.shields.io/badge/Instagram-akhi__akxu-indigo?&style=plastic&logo=instagram" alt="Instagram"></a>
-
-<a href="https://twitter.com/akhi_akxu"><img src="https://img.shields.io/badge/Twitter-akhi__akxu-blue?style=plastic&logo=twitter" alt="Twitter"></a>
-
-<a href="https://www.linkedin.com/in/akhil-mahesh01"><img src="https://img.shields.io/badge/LinkedIn-Akhil--Mahesh-blue?style=plastic&logo=linkedin" alt="LinkedIn"></a>
-
-<a href="https://pin.it/6qXEJ2G"><img src="https://img.shields.io/badge/Pinterest-AlonePhilic-red?style=plastic&logo=pinterest" alt="Pinterest"></a>
-
-<a href="http://telegram.me/alonephilic_real"><img src="https://img.shields.io/badge/Telegram-alonephilic__real-blue?style=plastic&logo=telegram" alt="Telegram"></a>
-
-<a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?&style=plastic&logo=blogger" alt="Blogspot"></a>
-
-<a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-darkred?&style=plastic&logo=gmail" alt="Mail"></a>
-
-</div>
+<ul style="list-style-type:none;">
+  <li><a href="https://github.com/Akhil-Mahesh"><img src="https://img.shields.io/github/followers/Akhil-Mahesh?color=darkgreen&style=plastic" alt="GitHub followers"></a></li>
+  <li><a href="https://github.com/Akhil-Mahesh"><img src="https://img.shields.io/github/stars/Akhil-Mahesh?color=black&style=plastic" alt="GitHub User's stars"></a></li>
+  <li><a href="https://www.youtube.com/AlonePhilic"><img src="https://img.shields.io/badge/YouTube-AlonePhilic-red?&style=plastic&logo=youtube" alt="YouTube"></a></li>
+  <li><a href="https://instagram.com/alone.philic"><img src="https://img.shields.io/badge/Instagram-alone.philic-pink?&style=plastic&logo=instagram" alt="Instagram"></a></li>
+  <li><a href="https://instagram.com/akhi_akxu"><img src="https://img.shields.io/badge/Instagram-akhi__akxu-hotpink?&style=plastic&logo=instagram" alt="Instagram"></a></li>
+  <li><a href="https://twitter.com/akhi_akxu"><img src="https://img.shields.io/badge/Twitter-akhi__akxu-blue?style=plastic&logo=twitter" alt="Twitter"></a></li>
+  <li><a href="https://www.linkedin.com/in/akhil-mahesh01"><img src="https://img.shields.io/badge/LinkedIn-Akhil--Mahesh-blue?style=plastic&logo=linkedin" alt="LinkedIn"></a></li>
+  <li><a href="https://pin.it/6qXEJ2G"><img src="https://img.shields.io/badge/Pinterest-AlonePhilic-red?style=plastic&logo=pinterest" alt="Pinterest"></a></li>
+  <li><a href="http://telegram.me/alonephilic_real"><img src="https://img.shields.io/badge/Telegram-alonephilic__real-blue?style=plastic&logo=telegram" alt="Telegram"></a></li>
+  <li><a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?&style=plastic&logo=blogger" alt="Blogspot"></a></li>
+  <li><a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-darkred?&style=plastic&logo=gmail" alt="Mail"></a></li>
+</ul>
 
 ---
 
