@@ -12,19 +12,19 @@
 
 <center>
     
-![GitHub followers](https://img.shields.io/github/followers/Akhil-Mahesh?color=black&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Akhil-Mahesh?color=darkgreen&style=plastic)
 
-![GitHub User's stars](https://img.shields.io/github/stars/Akhil-Mahesh?color=black&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Akhil-Mahesh?color=black&style=plastic)
 
-[![YouTube](https://img.shields.io/badge/YouTube-AlonePhilic-red?&style=social&logo=youtube)](https://www.youtube.com/AlonePhilic)
+[![YouTube](https://img.shields.io/badge/YouTube-AlonePhilic-red?&style=plastic&logo=youtube)](https://www.youtube.com/AlonePhilic)
 
-[![Instagram](https://img.shields.io/badge/Instagram-alone.philic-pink?&style=social&logo=instagram)](https://instagram.com/alone.philic)
+[![Instagram](https://img.shields.io/badge/Instagram-alone.philic-pink?&style=plastic&logo=instagram)](https://instagram.com/alone.philic)
 
-[![Instagram](https://img.shields.io/badge/Instagram-akhi__akxu-orange?&style=social&logo=instagram)](https://instagram.com/akhi_akxu)
+[![Instagram](https://img.shields.io/badge/Instagram-akhi__akxu-indigo?&style=plastic&logo=instagram)](https://instagram.com/akhi_akxu)
 
-[![Blogspot](https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?&style=social&logo=blogger)](https://itzmeakhilmahesh.blogspot.com/)
+[![Blogspot](https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?&style=plastic&logo=blogger)](https://itzmeakhilmahesh.blogspot.com/)
 
-[![Mail](https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-blue?&style=social&logo=gmail)](mailto:akhilmahesh012@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-darkred?&style=plastic&logo=gmail)](mailto:akhilmahesh012@gmail.com)
 
 </center>
 
