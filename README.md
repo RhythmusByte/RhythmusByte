@@ -40,7 +40,7 @@
 
 - <a href="https://github.com/Akhil-Mahesh/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Macondo&size=16&pause=1000&color=1EA0F7&width=250&lines=My+name+is+Akhil+Mahesh" alt="Typing SVG" /></a>
 - <a href="https://github.com/Akhil-Mahesh/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Macondo&size=16&pause=1000&color=1EA0F7&width=250&lines=I'm+a+2nd+year+BCA+student;at+Tanur%2C+Malappuram" alt="Typing SVG" /></a>
-- <a href="https://github.com/Akhil-Mahesh/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Macondo&size=16&pause=1000&color=rgb(30, 160, 247)&width=250&lines=My+hometown+is+in+;Thiruvananthapuram%2C+Kerala" alt="Typing SVG" /></a>
+- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Macondo&size=16&pause=1000&color=1EA0F7&width=250&lines=My+hometown+is+in+;Thiruvananthapuram%2C+Kerala" alt="Typing SVG" /></a>
 
 ---
 
