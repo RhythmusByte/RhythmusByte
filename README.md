@@ -22,6 +22,14 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-akhi__akxu-indigo?&style=plastic&logo=instagram)](https://instagram.com/akhi_akxu)
 
+[![Twitter](https://img.shields.io/badge/Twitter-akhi__akxu-blue?style=plastic&logo=twitter)](https://twitter.com/akhi_akxu)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil--Mahesh-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/akhil-mahesh01)
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-AlonePhilic-red?style=plastic&logo=pinterest)](https://pin.it/6qXEJ2G)
+
+[![Telegram](https://img.shields.io/badge/Telegram-alonephilic__real-blue?style=plastic&logo=telegram)](http://telegram.me/alonephilic_real)
+    
 [![Blogspot](https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?&style=plastic&logo=blogger)](https://itzmeakhilmahesh.blogspot.com/)
 
 [![Mail](https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-darkred?&style=plastic&logo=gmail)](mailto:akhilmahesh012@gmail.com)
