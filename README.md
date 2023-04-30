@@ -58,6 +58,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Mahesh&theme=black-ice&show_icons=true&hide_border=true&icon_color=00FF00&text_color=00FF00&bg_color=000000"/>  
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akhil-Mahesh&theme=tokyonight&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Mahesh&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&langs_count=10" />  
 </div>  
