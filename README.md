@@ -1,5 +1,5 @@
 <h1 align="left">
-<a href="https://github.com/Akhil-Mahesh"><img src="https://readme-typing-svg.herokuapp.com?font=Macondo&size=16&pause=1000&color=F70000&width=100&lines=Hey+Folk's" alt="Typing SVG" /></a>
+<a href="https://github.com/Akhil-Mahesh"><img src="https://readme-typing-svg.herokuapp.com?font=Macondo&size=32&pause=1000&color=F70000&width=100&lines=Hey+Folk's" alt="Typing SVG" /></a>
 </h1>
 
 ---
