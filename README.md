@@ -24,6 +24,7 @@
 <li><a href="https://vercel.com/akhil-mahesh"><img src="https://img.shields.io/badge/Vercel-akhil__mahesh-black?&style=plastic&logo=vercel" alt="Vercel"></a></li>
   <li><a href="http://telegram.me/alonephilic_real"><img src="https://img.shields.io/badge/Telegram-alonephilic__real-cyan?style=plastic&logo=telegram" alt="Telegram"></a></li>
   <li><a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?&style=plastic&logo=blogger" alt="Blogspot"></a></li>
+  <li><a href="https://www.w3profile.com/alonephilic"><img src="https://img.shields.io/badge/W3schools-AlonePhilic-green?&style=plastic&logo=w3school" alt="Blogspot"></a></li>
   <li><a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-darkred?&style=plastic&logo=gmail" alt="Mail"></a></li>
 </ul>
 
