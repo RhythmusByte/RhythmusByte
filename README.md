@@ -19,6 +19,8 @@
   <li><a href="https://twitter.com/akhi_akxu"><img src="https://img.shields.io/badge/Twitter-akhi__akxu-blue?style=plastic&logo=twitter" alt="Twitter"></a></li>
   <li><a href="https://www.linkedin.com/in/akhil-mahesh01"><img src="https://img.shields.io/badge/LinkedIn-Akhil--Mahesh-darkblue?style=plastic&logo=linkedin" alt="LinkedIn"></a></li>
   <li><a href="https://pin.it/6qXEJ2G"><img src="https://img.shields.io/badge/Pinterest-AlonePhilic-red?style=plastic&logo=pinterest" alt="Pinterest"></a></li>
+
+<li><a href="https://vercel.com/akhil-mahesh"><img src="https://img.shields.io/badge/Vercel-akhil__mahesh-black?&style=plastic&logo=vercel" alt="Vercel"></a></li>
   <li><a href="http://telegram.me/alonephilic_real"><img src="https://img.shields.io/badge/Telegram-alonephilic__real-cyan?style=plastic&logo=telegram" alt="Telegram"></a></li>
   <li><a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?&style=plastic&logo=blogger" alt="Blogspot"></a></li>
   <li><a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-darkred?&style=plastic&logo=gmail" alt="Mail"></a></li>
