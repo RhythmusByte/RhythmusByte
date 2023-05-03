@@ -21,6 +21,7 @@
 <h4>
 <details>
 <summary>About Me</summary>
+<br>
 <ul>
   <li><strong>👋 Hi there!</strong> I'm Akhil, a BCA student 🎓</li>
   <li><strong>💻 Aspiring Programmer.</strong> I love to code and solve challenging problems 🚀</li>
@@ -38,7 +39,8 @@
 <h4 align="left">
 <details>
 <summary>My profiles on other platforms</summary>
-
+<br>
+  
 <!-- Twitter -->
 <a href="https://twitter.com/akhi_akxu?t=Om1uDPCbFowsnefxqfnDmQ&s=09">
   <img src="https://img.shields.io/badge/Twitter-%40akhi__akxu-blue?style=plastic&logo=twitter" alt="Twitter">
@@ -150,6 +152,7 @@
 
 <h4><details>
 <summary>💻 Tech Stack:</summary>
+<br>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&amp;logo=c&amp;logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&amp;logo=css3&amp;logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&amp;logo=html5&amp;logoColor=white" alt="HTML5">
@@ -165,7 +168,7 @@
 
 <h4>
 <details>
-<summary>📊 GitHub Stats:</summary>
+<summary>📊 GitHub Stats:</summary><br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil-Mahesh&theme=tokyonight" alt="GitHub Profile Summary Cards">
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-mahesh&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats">
@@ -182,7 +185,7 @@
 
 <h4>
 <details>
-<summary>🏆 GitHub Trophies</summary>
+<summary>🏆 GitHub Trophies</summary><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Akhil-mahesh&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
 </h4>
 </details>
@@ -191,7 +194,7 @@
 
 <h4>
 <details>
-<summary>✍️ Random Dev Quote</summary>
+<summary>✍️ Random Dev Quote</summary><br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
 </h4>
 </details>
@@ -200,7 +203,7 @@
 
 <h4>
 <details>
-<summary>🎵 Spotify</summary>
+<summary>🎵 Spotify</summary><br>
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true">  
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0000ff&bar_color_cover=false" alt="Spotify Now Playing" />  
 </a>
@@ -211,6 +214,6 @@
 
 
 <!-- Conclusion --> 
- <!-- Last edited: 30/04/2023 --> 
+ <!-- Last edited: 03/05/2023 --> 
  <!-- Older Version Readme codes in repo go check it out --> 
  <!-- Don't forget to give a star. -->
