@@ -1,5 +1,5 @@
 <h1 align="left">
-<a href="https://github.com/Akhil-Mahesh"><img src="https://readme-typing-svg.herokuapp.com?aaa=Macondo&size=42&duration=3000&pause=1000&color=00F729&center=true&vCenter=true&height=100&lines=Hey+Folk's;Welcome+to+my+;GitHub+Profile" alt="Typing SVG" /></a>
+<a href="https://github.com/Akhil-Mahesh"><img src="https://readme-typing-svg.herokuapp.com?aaa=Lemonmilk-bold&size=42&duration=3000&pause=1000&color=00F729&center=true&vCenter=true&height=100&lines=Hey+Folk's;Welcome+to+my+;GitHub+Profile" alt="Typing SVG" /></a>
 
 </h1>
 
@@ -24,7 +24,7 @@
 <li><a href="https://vercel.com/akhil-mahesh"><img src="https://img.shields.io/badge/Vercel-akhil__mahesh-black?&style=plastic&logo=vercel" alt="Vercel"></a></li>
   <li><a href="http://telegram.me/alonephilic_real"><img src="https://img.shields.io/badge/Telegram-alonephilic__real-cyan?style=plastic&logo=telegram" alt="Telegram"></a></li>
   <li><a href="https://itzmeakhilmahesh.blogspot.com/"><img src="https://img.shields.io/badge/Blogspot-ItzmeAkhilMahesh-orange?&style=plastic&logo=blogger" alt="Blogspot"></a></li>
-  <li><a href="https://www.w3profile.com/alonephilic"><img src="https://img.shields.io/badge/W3schools-AlonePhilic-green?&style=plastic&logo=w3school" alt="Blogspot"></a></li>
+  <li><a href="https://www.w3profile.com/alonephilic"><img src="https://img.shields.io/badge/W3schools-AlonePhilic-green?&style=plastic&logo=w3schools" alt="Blogspot"></a></li>
   <li><a href="mailto:akhilmahesh012@gmail.com"><img src="https://img.shields.io/badge/Mail-akhilmahesh012%40gmail.com-darkred?&style=plastic&logo=gmail" alt="Mail"></a></li>
 </ul>
 
