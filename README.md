@@ -170,13 +170,13 @@
 <details>
 <summary>📊 GitHub Stats:</summary><br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil-Mahesh&theme=tokyonight" alt="GitHub Profile Summary Cards">
-<br>
+<br><hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-mahesh&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats">
-<br>
+<br><hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-mahesh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
-<br>
+<br><hr>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akhil-Mahesh&theme=tokyonight" alt="GitHub Profile Summary Cards">
-<br>
+<br><hr>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akhil-Mahesh&theme=tokyonight&utcOffset=8" alt="GitHub Profile Summary Cards">
 </h4>
 </details>
