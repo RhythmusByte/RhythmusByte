@@ -1,3 +1,4 @@
+<hr>
 <p align="center">
 <a href="https://github.com/akhil-mahesh"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&size=42&duration=3000&pause=1000&color=A200F7&center=true&vCenter=true&width=435&height=100&lines=Hey+Folk's;Welcome+to+my;GitHub+Profile" alt="Typing SVG" /></a>
 </p>
