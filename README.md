@@ -39,6 +39,7 @@
 <ul>
     <li><a href="https://github.com/Akhil-Mahesh/Calculator">Calculator</a></li>
     <li><a href="https://github.com/Akhil-Mahesh/Personal-Website">Personal Website</a></li>
+    <li><a href="https://github.com/Akhil-Mahesh/Quote-Generator">Quote Generator</a></li>
     </ul>
 </p>
 </section>
