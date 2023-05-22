@@ -80,7 +80,9 @@
 <h2>📊 GitHub Stats</h2>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil-Mahesh&theme=tokyonight" alt="GitHub Profile Summary Cards">
 <br><hr>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-mahesh&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akhil-Mahesh&theme=tokyonight-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 <br><hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-mahesh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
 <br><hr>
@@ -90,9 +92,6 @@
 <br><hr>
 <img src="https://github-profile-trophy.vercel.app/?username=Akhil-mahesh&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akhil-Mahesh&theme=tokyonight-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </section>
 <hr>
 <section id="spotify">
