@@ -89,6 +89,10 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akhil-Mahesh&theme=tokyonight&utcOffset=8" alt="GitHub Profile Summary Cards">
 <br><hr>
 <img src="https://github-profile-trophy.vercel.app/?username=Akhil-mahesh&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akhil-Mahesh&theme=tokyonight-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </section>
 <hr>
 <section id="spotify">
