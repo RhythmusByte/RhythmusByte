@@ -1,28 +1,30 @@
-<a href="https://akhilmahesh.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=2500&pause=1000&color=03F700&width=440&height=100&lines=Hey+Folks+%F0%9F%91%8B;Welcome+to+my+profile;Don't+forget+to;Follow+%26+Star+my+repos" alt="Typing SVG" /></a>
+<a href="https://akhilmahesh.netlify.app/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=2500&pause=1000&color=03F700&width=440&height=100&lines=Hey+Folks+%F0%9F%91%8B;Welcome+to+my+profile;Don't+forget+to;Follow+%26+Star+my+repos" alt="Typing SVG" />
+</a>
 
 <hr>
 
 <p align="center">
-<a href="https://akhilmahesh.netlify.app/"></a><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
+  <a href="https://akhilmahesh.netlify.app/">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
+  </a>
 </p>
 
 <hr>
 
-<h2>✨ About Me</h2>
+## ✨ About Me
 
 <hr>
 
-<p>
-🎓 I'm Akhil Mahesh, a passionate beginner with a strong interest in <b>Web Development</b>. I aspire to become a successful <b>Full Stack Developer</b> in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor in <b>Computer Applications (BCA)</b>.
+🎓 I'm Akhil Mahesh, a passionate beginner with a strong interest in **Web Development**. I aspire to become a successful **Full Stack Developer** in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor in **Computer Applications (BCA)**.
 
-💻 I have a strong foundation in HTML and CSS and I'm continually expanding my knowledge of JavaScript. My goal is to become a successful programmer and master the art of full stack development.
+💻 I have a strong foundation in HTML and CSS, and I'm continually expanding my knowledge of JavaScript. My goal is to become a successful programmer and master the art of full stack development.
 
 🌍 I also have a passion for travel and have enjoyed both solo trips and adventures with special companions. Exploring new places and experiencing different cultures bring me great joy and broaden my horizons.
 
 🌟 My mission is to create something unique and innovative, pushing the boundaries of what's been done before. I believe in being happy and finding fulfillment in my work and personal life.
-</p>
 
-<h2>🎵 Interests and Hobbies</h2>
+## 🎵 Interests and Hobbies
 
 <hr>
 
@@ -36,33 +38,33 @@ In my free time, I indulge in various activities that help me relax and expand m
 - Browsing the web 🌐
 - Reading books 📚
 
-<h2>💻 Tech Stack</h2>
+## 💻 Tech Stack
 
 <hr>
 
-<h3>Languages: </h3>
+### Languages:
 
 <center>
-    
+
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&amp;logo=css3&amp;logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
-    
+
 </center>
 
-<h3>Design Tools: </h3>
+### Design Tools:
 
 <center>
-    
+
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&amp;logo=Adobe%20Lightroom&amp;logoColor=white" alt="Adobe Lightroom">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&amp;logo=Canva&amp;logoColor=white" alt="Canva">
 
 </center>
 
-<h3>Backend as a Service</h3>
+### Backend as a Service
 
 <center>
- 
+
 <a href="https://vercel.com">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel">
 </a>
@@ -75,7 +77,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 </center>
 
-<h2>📫 Get In Touch</h2>
+## 📫 Get In Touch
 
 <hr>
 
@@ -103,7 +105,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 </center>
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <hr>
 
@@ -131,9 +133,9 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <img src="https://github-profile-trophy.vercel.app/?username=Akhil-mahesh&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
 
-<h2>🎵 Spotify</h2>
+## 🎵 Spotify
 
 <hr>
 
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true">  
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0000ff&bar_color_cover=false" alt="Spotify Now Playing" />  
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true">   
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0000ff&bar_color_cover=false" alt="Spotify Now Playing" />
