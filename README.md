@@ -15,15 +15,9 @@
 <p>
 🎓 I'm Akhil Mahesh, a passionate beginner with a strong interest in <b>Web Development</b>. I aspire to become a successful <b>Full Stack Developer</b> in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor in <b>Computer Applications (BCA)</b>.
 
-<br><br>
-
 💻 I have a strong foundation in HTML and CSS and I'm continually expanding my knowledge of JavaScript. My goal is to become a successful programmer and master the art of full stack development.
 
-<br><br>
-
 🌍 I also have a passion for travel and have enjoyed both solo trips and adventures with special companions. Exploring new places and experiencing different cultures bring me great joy and broaden my horizons.
-
-<br><br>
 
 🌟 My mission is to create something unique and innovative, pushing the boundaries of what's been done before. I believe in being happy and finding fulfillment in my work and personal life.
 </p>
