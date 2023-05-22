@@ -81,7 +81,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil-Mahesh&theme=tokyonight" alt="GitHub Profile Summary Cards">
 <br><hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akhil-Mahesh&theme=tokyonight-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akhil-Mahesh&theme=tokyonight-duo&exclude_days=Sun)](https://akhilmahesh.netlify.app/)
 
 <br><hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-mahesh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
