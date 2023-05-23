@@ -24,6 +24,11 @@
 
 🌟 My mission is to create something unique and innovative, pushing the boundaries of what's been done before. I believe in being happy and finding fulfillment in my work and personal life.
 
+## My Projects
+
+- <a href="https://github.com/Akhil-Mahesh/Personal-Website">Personal Website</a>
+- <a href="https://github.com/Akhil-Mahesh/Quote-Generator">Quote Generator</a>
+
 ## 🎵 Interests and Hobbies
 
 <hr>
@@ -83,7 +88,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <center>
 
-<a href="https://www.linkedin.com/in/akhil-mahesh01">
+<a href="https://www.linkedin.com/in/akhil--mahesh">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
