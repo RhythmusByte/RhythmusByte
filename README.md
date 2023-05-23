@@ -118,9 +118,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <br>
 
-<a href="https://akhilmahesh.netlify.app/">
-  <img src="https://streak-stats.demolab.com?user=Akhil-Mahesh&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak">
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akhil-Mahesh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&background=000000&ring=EB0000&fire=0000EB&currStreakNum=DEEB00&stroke=00DEEB&sideNums=0068EB&currStreakLabel=0EEB00&sideLabels=00EBD6&dates=EB56DC)](https://git.io/streak-stats)
 
 <br>
 
