@@ -26,8 +26,8 @@
 
 ## My Projects
 
-- <a href="https://github.com/Akhil-Mahesh/Personal-Website">Personal Website</a>
-- <a href="https://github.com/Akhil-Mahesh/Quote-Generator">Quote Generator</a>
+- <a href="https://github.com/RhythmusByte/Personal-Website">Personal Website</a>
+- <a href="https://github.com/RhythmusByte/Quote-Generator">Quote Generator</a>
 
 ## 🎵 Interests and Hobbies
 
@@ -114,27 +114,27 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <hr>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil-Mahesh&theme=tokyonight" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte &theme=tokyonight" alt="GitHub Profile Summary Cards">
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akhil-Mahesh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&background=000000&ring=EB0000&fire=0000EB&currStreakNum=DEEB00&stroke=00DEEB&sideNums=0068EB&currStreakLabel=0EEB00&sideLabels=00EBD6&dates=EB56DC)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RhythmusByte &theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&background=000000&ring=EB0000&fire=0000EB&currStreakNum=DEEB00&stroke=00DEEB&sideNums=0068EB&currStreakLabel=0EEB00&sideLabels=00EBD6&dates=EB56DC)](https://git.io/streak-stats)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-mahesh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte &theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
 
 <br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akhil-Mahesh&theme=tokyonight" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=tokyonight" alt="GitHub Profile Summary Cards">
 
 <br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akhil-Mahesh&theme=tokyonight&utcOffset=8" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte &theme=tokyonight&utcOffset=8" alt="GitHub Profile Summary Cards">
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akhil-mahesh&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte &theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
 
 ## 🎵 Spotify
 
