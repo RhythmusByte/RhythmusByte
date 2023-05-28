@@ -88,11 +88,11 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <center>
 
-<a href="https://www.linkedin.com/in/akhil--mahesh">
+<a href="https://www.linkedin.com/in/rhythmusbyte">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://www.instagram.com/akhi_akxu/">
+<a href="https://instagram.com/rhythmusbyte">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
