@@ -78,7 +78,7 @@
 <h2>📊 GitHub Stats</h2>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil-Mahesh&theme=tokyonight" alt="GitHub Profile Summary Cards">
 <br><hr>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-mahesh&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RhythmusByte&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats">
 <br><hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-mahesh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
 <br><hr>
