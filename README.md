@@ -134,7 +134,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte &theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
 
 ## 🎵 Spotify
 
