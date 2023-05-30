@@ -114,7 +114,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <hr>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte &theme=tokyonight" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" alt="GitHub Profile Summary Cards">
 
 <br>
 
