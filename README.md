@@ -104,7 +104,7 @@ In my free time, I indulge in various activities that help me relax and expand m
   <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://twitter.com/akhi_akxu">
+<a href="https://twitter.com/RhythmusByte">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 
