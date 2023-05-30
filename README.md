@@ -122,7 +122,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte &theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
 
 <br>
 
