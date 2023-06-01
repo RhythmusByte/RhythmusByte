@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://akhilmahesh.netlify.app/">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="GIF">
   </a>
 </p>
 
@@ -118,7 +118,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&background=000000&ring=EB0000&fire=0000EB&currStreakNum=DEEB00&stroke=00DEEB&sideNums=0068EB&currStreakLabel=0EEB00&sideLabels=00EBD6&dates=EB56DC)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&background=000000&ring=EB0000&fire=0000EB&currStreakNum=DEEB00&stroke=00DEEB&sideNums=0068EB&currStreakLabel=0EEB00&sideLabels=00EBD6&dates=EB56DC)](https://akhilmahesh.netlify.app)
 
 <br>
 
