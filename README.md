@@ -1,5 +1,5 @@
 <a href="https://akhilmahesh.netlify.app/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=2500&pause=1000&color=03F700&width=440&height=100&lines=Hey+Folks+%F0%9F%91%8B;Welcome+to+my+profile;Don't+forget+to;Follow+%26+Star+my+repos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=2500&pause=1000&color=03F700&width=440&height=100&lines=Hey+Geeks+%F0%9F%91%8B;Welcome+to+my+profile;Don't+forget+to;Follow+%26+Star+my+repos" alt="Typing SVG" />
 </a>
 
 <hr>
