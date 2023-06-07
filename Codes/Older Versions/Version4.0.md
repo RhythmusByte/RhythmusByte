@@ -27,7 +27,7 @@
   <li><strong>🌐 Tech enthusiast.</strong> I enjoy exploring new technologies and sharing my knowledge with others</li>
   <li><strong>🎧 Music lover.</strong> When I'm not coding, you'll find me listening to music and discovering new things 🌍</li>
   <li><strong>🤝 Let's connect and share our passions!</strong></li>
-  <li>📝 I write articles on My <a href="https://itzmeakhilmahesh.blogspot.com/">Blogspot</a>     
+  <li>📝 I write articles on My <a href="https://akhil-mahesh.blogspot.com">Blogspot</a>     
   </li>
 </ul>
 </details>
