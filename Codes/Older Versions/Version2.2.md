@@ -10,7 +10,7 @@
 
 <!-- Gif -->
 
-<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Scaler Official Work GIF" width="400" height="200"/>
+<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Scaler Official Work GIF" width="100%">
 </center>
 
 ---
