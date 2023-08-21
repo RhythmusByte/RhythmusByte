@@ -1,54 +1,53 @@
-<a href="https://akhilmahesh.netlify.app/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=2500&pause=1000&color=03F700&width=440&height=100&lines=Hey+Geeks+%F0%9F%91%8B;Welcome+to+my+profile;Don't+forget+to;Follow+%26+Star+my+repos" alt="Typing SVG" />
+<!-- 
+Date - 21/08/2023
+
+Author - RhythmusByte
+ -->
+ 
+<a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&duration=4000&pause=1000&color=FFD60A&width=435&lines=Hey+Friends+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </a>
 
-<hr>
-
 <p align="center">
-  <a href="https://akhilmahesh.netlify.app/">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="GIF">
-  </a>
+    <a href="https://akhilmahesh.netlify.app">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Gif">
+    </a>
 </p>
 
+<h2>✨ About Me:</h2>
 <hr>
 
-## ✨ About Me
+<p>
+🎀 I'm Akhil Mahesh, a passionate beginner with a strong interest in <b>Web Development</b>. I aspire to become a successful <b>Full Stack Developer</b> in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor in <b>Computer Applications (BCA)</b>.
+    
+🏁 My goal is to become a successful programmer and master the art of <b>Full Stack Development</b>.
+    
+🗺️ I also have a passion for travel and have enjoyed both solo trips and adventures with special companions. Exploring new places and experiencing different cultures bring me great joy and broaden my horizons.
+    
+🌠  My mission is to create something unique and innovative, pushing the boundaries of what's been done before. I believe in being happy and finding fulfillment in my work and personal life.
+    
+📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="https://akhil-linktree.netlify.app/">contact me</a> anytime you want.
+    
+🌟 I've created some small <a href="#project">projects</a> you can check it out. All those were fully coded using only an Android Smartphone.
+</p>
 
-<hr>
-
-🎓 I'm Akhil Mahesh, a passionate beginner with a strong interest in **Web Development**. I aspire to become a successful **Full Stack Developer** in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor in **Computer Applications (BCA)**.
-
-💻 I have a strong foundation in HTML and CSS, and I'm continually expanding my knowledge of JavaScript. My goal is to become a successful programmer and master the art of full stack development.
-
-🌍 I also have a passion for travel and have enjoyed both solo trips and adventures with special companions. Exploring new places and experiencing different cultures bring me great joy and broaden my horizons.
-
-🌟 My mission is to create something unique and innovative, pushing the boundaries of what's been done before. I believe in being happy and finding fulfillment in my work and personal life.
-
-## My Projects
-
-- <a href="https://github.com/RhythmusByte/Personal-Website">Personal Website</a>
-- <a href="https://github.com/RhythmusByte/Quote-Generator">Quote Generator</a>
-
-## 🎵 Interests and Hobbies
+<h2>🎵 Interests and Hobbies</h2>
 
 <hr>
 
 In my free time, I indulge in various activities that help me relax and expand my horizons. I enjoy:
 
-- Listening to music 🎧
-- Watching anime 📺
-- Editing 🎞️
-- Exploring movies and series 🎬
-- Coding 💻
-- Browsing the web 🌐
-- Reading books 📚
+- 🎧 Listening to music 
+- 📺 Watching anime 
+- 🎞️ Editing 
+- 🎬 Exploring movies and series 
+- 💻 Coding 
+- 🌐 Browsing the web 
+- 📚 Reading books 
 
-## 💻 Tech Stack
-
+<h2>👨‍💻 Tech Stack</h2>
 <hr>
-
-### Languages:
-
+<h4>⌨️ Languages</h4>
 <center>
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&amp;logo=html5&amp;logoColor=white" alt="HTML5">
@@ -57,8 +56,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 </center>
 
-### Design Tools:
-
+<h4>🖌️ Design Tools</h4>
 <center>
 
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&amp;logo=Adobe%20Lightroom&amp;logoColor=white" alt="Adobe Lightroom">
@@ -66,51 +64,12 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 </center>
 
-### Backend as a Service
+<h2 id="project">👨‍💻 Projects</h2>
 
-<center>
+- <a href="https://github.com/RhythmusByte/Personal-Website">Personal Website</a>
+- <a href="https://github.com/RhythmusByte/Quote-Generator">Quote Generator</a>
 
-<a href="https://vercel.com">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel">
-</a>
-<a href="https://www.netlify.com">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=white" alt="Netlify">
-</a>
-<a href="https://replit.com">
-  <img src="https://img.shields.io/badge/replit-%23000000.svg?style=plastic&logo=replit&logoColor=white" alt="Replit">
-</a>
-
-</center>
-
-## 📫 Get In Touch
-
-<hr>
-
-<center>
-
-<a href="https://www.linkedin.com/in/rhythmusbyte">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://instagram.com/rhythmusbyte">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://akhilmahesh.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="mailto:akhilmahesh.tech@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://twitter.com/RhythmusByte">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-
-</center>
-
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <hr>
 
@@ -136,7 +95,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
 
-## 🎵 Spotify
+<h2>🎵 Spotify</h2>
 
 <hr>
 
