@@ -3,11 +3,11 @@ Date - 21/08/2023
 
 Author - RhythmusByte
  -->
- 
+ <center>
 <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&duration=4000&pause=1000&color=FFD60A&width=435&lines=Hey+Friends+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </a>
-
+ </center>
 <p align="center">
     <a href="https://akhilmahesh.netlify.app">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Gif">
