@@ -1,5 +1,5 @@
 <!-- 
-Date - 21/08/2023
+Last Updated - 23/08/2023
 
 Author - RhythmusByte
  -->
@@ -64,7 +64,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <h2 id="project">👨‍💻 Projects</h2>
 
-- <a href="https://github.com/RhythmusByte/Personal-Website">Personal Website</a>
+- <a href="https://akhilmahesh.netlify.app/">Personal Website</a>
 - <a href="https://github.com/RhythmusByte/Quote-Generator">Quote Generator</a>
 
 <h2>📊 GitHub Stats</h2>
