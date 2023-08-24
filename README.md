@@ -65,7 +65,8 @@ In my free time, I indulge in various activities that help me relax and expand m
 <h2 id="project">👨‍💻 Projects</h2>
 
 - <a href="https://akhilmahesh.netlify.app/">Personal Website</a>
-- <a href="https://github.com/RhythmusByte/Quote-Generator">Quote Generator</a>
+- <a href="https://akhil-quote-generator.netlify.app">Quote Generator</a>
+- <a href="https://rhythmusbyte.github.io/LinkTree" target="_blank">Animated Link Tree</a>
 
 <h2>📊 GitHub Stats</h2>
 
