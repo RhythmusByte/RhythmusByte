@@ -24,7 +24,7 @@ Author - RhythmusByte
     
 🌠  My mission is to create something unique and innovative, pushing the boundaries of what's been done before. I believe in being happy and finding fulfillment in my work and personal life.
     
-📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="https://akhil-linktree.netlify.app/">contact me</a> anytime you want.
+📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="https://rhythmusbyte.github.io/LinkTree" target="_blank">contact me</a> anytime you want.
     
 🌟 I've created some small <a href="#project">projects</a> you can check it out. All those were fully coded using only an Android Smartphone.
 </p>
