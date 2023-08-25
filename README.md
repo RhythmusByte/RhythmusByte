@@ -1,5 +1,5 @@
 <!-- 
-Last Updated - 23/08/2023
+Last Updated - 25/08/2023
 
 Author - RhythmusByte
  -->
@@ -27,6 +27,8 @@ Author - RhythmusByte
 📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="https://rhythmusbyte.github.io/LinkTree" target="_blank">contact me</a> anytime you want.
     
 🌟 I've created some small <a href="#project">projects</a> you can check it out. All those were fully coded using only an Android Smartphone.
+
+✍️ I write blogs on <a href="https://rhythmusbyte.blogspot.com" target="_blank">Blogger</a> and <a href="https://medium.com/@rhythmusbyte" target="_blank">Medium</a> and also articles on <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">LinkedIn</a> and <a href="https://dev.to/rhythmusbyte" target="_blank">Dev.to</a> about my journey and knowledge.
 </p>
 
 <h2>🎵 Interests and Hobbies</h2>
