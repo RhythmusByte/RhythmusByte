@@ -1,5 +1,5 @@
 <!-- 
-Last Updated - 25/08/2023
+Last Updated - 27/08/2023
 
 Author - RhythmusByte
  -->
@@ -28,7 +28,7 @@ Author - RhythmusByte
     
 🌟 I've created some small <a href="#project">projects</a> you can check it out. All those were fully coded using only an Android Smartphone.
 
-✍️ I write blogs on <a href="https://rhythmusbyte.blogspot.com" target="_blank">Blogger</a> and <a href="https://medium.com/@rhythmusbyte" target="_blank">Medium</a> and also articles on <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">LinkedIn</a> and <a href="https://dev.to/rhythmusbyte" target="_blank">Dev.to</a> about my journey and knowledge.
+✍️ I write blogs on <a href="https://rhythmusbyte.blogspot.com" target="_blank">Blogger</a> and <a href="https://medium.com/@rhythmusbyte" target="_blank">Medium</a> and also articles on <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">LinkedIn</a> and <a href="https://dev.to/rhythmusbyte" target="_blank">Dev.to</a> about 'Journey of my projects and knowledge'.
 </p>
 
 <h2>🎵 Interests and Hobbies</h2>
