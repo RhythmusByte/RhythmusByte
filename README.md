@@ -1,10 +1,10 @@
 <!-- 
-Last Updated - 27/08/2023
+Last Updated - 28/08/2023
 
 Author - RhythmusByte
  -->
  <center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my;GitHub+Profile+;Don't+forget+to+star;my+repo's+if+you+like;I'm+Akhil+Mahesh;Aka+RhythmusByte" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my;GitHub+Profile+;Don't+forget+to+star;my+repo's+if+you+like+it;I'm+Akhil+Mahesh;Aka+RhythmusByte" alt="Typing SVG" /></a>
  </center>
 <p align="center">
     <a href="https://akhilmahesh.netlify.app">
