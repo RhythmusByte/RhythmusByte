@@ -1,5 +1,5 @@
 <!-- 
-Last Updated - 28/08/2023
+Last Updated - 30/08/2023
 Author - RhythmusByte
  -->
  <center>
@@ -23,7 +23,7 @@ Author - RhythmusByte
     
 🌠  My mission is to create something unique and innovative, pushing the boundaries of what's been done before. I believe in being happy and finding fulfillment in my work and personal life.
     
-📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="https://rhythmusbyte.github.io/LinkTree" target="_blank">contact me</a> anytime you want.
+📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="#contact">contact me</a> anytime you want.
     
 🌟 I've created some small <a href="#project">projects</a> you can check it out. All those were fully coded using only an Android Smartphone.
 
@@ -68,6 +68,66 @@ In my free time, I indulge in various activities that help me relax and expand m
 - <a href="https://akhilmahesh.netlify.app/">Personal Website</a>
 - <a href="https://akhil-quote-generator.netlify.app">Quote Generator</a>
 - <a href="https://rhythmusbyte.github.io/LinkTree" target="_blank">Animated Link Tree</a>
+
+<h2 id="contact">📟 Get in Touch</h2>
+
+<hr>
+
+<center>
+ 
+<a href="https://www.linkedin.com/in/rhythmusbyte">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/RhythmusByte">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://instagram.com/rhythmusbyte">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://instagram.com/alone.philic">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram Secondary">
+</a>
+
+<a href="https://www.youtube.com/@alonephilic">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+<a href="https://medium.com/@rhythmusbyte">
+  <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=plastic&logo=medium&logoColor=white" alt="Medium">
+</a>
+
+<a href="https://rhythmusbyte.blogspot.com">
+  <img src="https://img.shields.io/badge/Blogger-%23FF5722.svg?style=plastic&logo=blogger&logoColor=white" alt="Blogger">
+</a>
+
+<a href="https://dev.to/rhythmusbyte">
+  <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=plastic&logo=dev.to&logoColor=white" alt="Dev.to">
+</a>
+
+<a href="https://rhythmusbytelinks.netlify.app">
+  <img src="https://img.shields.io/badge/Link%20Tree-%2303A87C.svg?style=plastic&logo=linktree&logoColor=white" alt="Link Tree">
+</a>
+
+<a href="https://akhilmahesh.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=portfolio&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://discordapp.com/users/AlonePhilic#3228">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="https://twitter.com/RhythmusByte">
+  <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="X">
+</a>
+
+<a href="https://t.snapchat.com/4lzH9sSs">
+  <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=white" alt="Snapchat">
+</a>
+
+</center>
 
 <h2>📊 GitHub Stats</h2>
 
