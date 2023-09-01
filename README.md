@@ -1,5 +1,5 @@
 <!-- 
-Last Updated - 30/08/2023
+Last Updated - 01/09/2023
 Author - RhythmusByte
  -->
  <center>
@@ -85,10 +85,6 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <a href="https://instagram.com/rhythmusbyte">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://instagram.com/alone.philic">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram Secondary">
 </a>
 
 <a href="https://www.youtube.com/@alonephilic">
