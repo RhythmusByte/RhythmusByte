@@ -16,7 +16,7 @@ Author - RhythmusByte
 
 <details>
  <summary>Banner Image</summary>
- <img src="banner.jpg" alt="This is a banner image that introduces the RhythmusByte. I'm pursuing an undergraduate degree in BCA at a college affiliated to the University of Calicut and has a passion for full stack development. The image also provides my portfolio link and mail id for anyone who wants to connect or collaborate with me" width="100%">
+ <img src="https://res.cloudinary.com/dqocmr8iu/image/upload/v1693739096/Git/banner_ymqrdo.jpg" alt="This is a banner image that introduces the RhythmusByte. I'm pursuing an undergraduate degree in BCA at a college affiliated to the University of Calicut and has a passion for full stack development. The image also provides my portfolio link and mail id for anyone who wants to connect or collaborate with me" width="100%">
 </details>
 
 <p>
