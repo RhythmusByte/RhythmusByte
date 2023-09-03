@@ -1,5 +1,5 @@
 <!-- 
-Last Updated - 03/09/2023
+Last Updated - 04/09/2023
 Author - RhythmusByte
  -->
  <center>
@@ -9,10 +9,11 @@ Author - RhythmusByte
     <a href="https://akhilmahesh.netlify.app">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Gif">
     </a>
+
+ <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" width="50%" alt="Profile visitor counter" >
 </p>
 
 <h2>✨ About Me:</h2>
-<hr>
 
 <details>
  <summary>Banner Image</summary>
@@ -37,8 +38,6 @@ Author - RhythmusByte
 
 <h2>💡 Interests and Hobbies</h2>
 
-<hr>
-
 In my free time, I indulge in various activities that help me relax and expand my horizons. I enjoy:
 
 - 🎧 Listening to music 
@@ -50,7 +49,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 - 📚 Reading books 
 
 <h2>👨‍💻 Tech Stack</h2>
-<hr>
+
 <h4>⌨️ Languages</h4>
 <center>
 
@@ -75,8 +74,6 @@ In my free time, I indulge in various activities that help me relax and expand m
 - <a href="https://github.com/RhythmusByte/LinkTree" target="_blank">Animated Link Tree</a>
 
 <h2 id="contact">📟 Get in Touch</h2>
-
-<hr>
 
 <center>
  
@@ -132,8 +129,6 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <h2>📊 GitHub Stats</h2>
 
-<hr>
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" alt="GitHub Profile Summary Cards">
 
 <br>
@@ -157,8 +152,6 @@ In my free time, I indulge in various activities that help me relax and expand m
 <img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
 
 <h2>🎵 Spotify</h2>
-
-<hr>
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true">   
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0000ff&bar_color_cover=false" alt="Spotify Now Playing" />
