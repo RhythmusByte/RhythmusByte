@@ -14,6 +14,11 @@ Author - RhythmusByte
 <h2>✨ About Me:</h2>
 <hr>
 
+<details>
+ <summary>Banner Image</summary>
+ <img src="banner.png" alt="This is a banner image that introduces the RhythmusByte. I'm pursuing an undergraduate degree in BCA at a college affiliated to the University of Calicut and has a passion for full stack development. The image also provides my portfolio link and mail id for anyone who wants to connect or collaborate with me" width="100%">
+</details>
+
 <p>
 🎀 I'm Akhil Mahesh, a passionate beginner with a strong interest in <b>Web Development</b>. I aspire to become a successful <b>Full Stack Developer</b> in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor in <b>Computer Applications (BCA)</b>.
     
