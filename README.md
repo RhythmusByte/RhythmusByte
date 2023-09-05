@@ -1,6 +1,6 @@
 <!--
 
-Last Updated - 05/09/2023
+Last Updated - 06/09/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -14,8 +14,6 @@ If your intention is to obtain the source code for my profile readme, please fol
     <a href="https://akhilmahesh.netlify.app">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Gif">
     </a>
-
- <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" width="50%" alt="Profile visitor counter" >
 </p>
 
 <h2>✨ About Me:</h2>
@@ -136,6 +134,10 @@ In my free time, I indulge in various activities that help me relax and expand m
 </center>
 
 <h2>📊 GitHub Stats</h2>
+
+##### Profile View Count
+
+<img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" width="50%" alt="Profile visitor counter" >
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" alt="GitHub Profile Summary Cards">
 
