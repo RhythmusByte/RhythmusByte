@@ -1,6 +1,6 @@
 <!--
 
-Last Updated - 04/09/2023
+Last Updated - 05/09/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -118,7 +118,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 </a>
 
 <a href="https://akhilmahesh.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=portfolio&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=computer&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://discordapp.com/users/AlonePhilic#3228">
@@ -126,7 +126,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 </a>
 
 <a href="https://twitter.com/RhythmusByte">
-  <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="X">
+  <img src="https://img.shields.io/badge/@RhythmusByte-%23000000.svg?style=plastic&logo=X&logoColor=white" alt="X">
 </a>
 
 <a href="https://t.snapchat.com/4lzH9sSs">
