@@ -128,7 +128,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 </a>
 
 <a href="mailto:rhythmusbyte@proton.me">
-  <img src="https://img.shields.io/badge/Email-%23FF5722.svg?style=plastic&logo=gmail&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Email-%23FF5722.svg?style=plastic&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://t.snapchat.com/4lzH9sSs">
@@ -139,8 +139,9 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <h2>📊 GitHub Stats</h2>
 
-##### Profile View Count
+#### Profile View Count
 
+<p align="center">
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" width="50%" alt="Profile visitor counter" >
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" alt="GitHub Profile Summary Cards">
@@ -164,6 +165,8 @@ In my free time, I indulge in various activities that help me relax and expand m
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
+
+</p>
 
 <h2>🎵 Spotify</h2>
 
