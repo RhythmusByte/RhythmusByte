@@ -116,7 +116,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 </a>
 
 <a href="https://akhilmahesh.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=computer&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=Proton&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://discordapp.com/users/AlonePhilic#3228">
