@@ -127,6 +127,10 @@ In my free time, I indulge in various activities that help me relax and expand m
   <img src="https://img.shields.io/badge/@RhythmusByte-%23000000.svg?style=plastic&logo=X&logoColor=white" alt="X">
 </a>
 
+<a href="mailto:rhythmusbyte@proton.me">
+  <img src="https://img.shields.io/badge/Email-%23FF5722.svg?style=plastic&logo=gmail&logoColor=white" alt="LinkedIn">
+</a>
+
 <a href="https://t.snapchat.com/4lzH9sSs">
   <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=white" alt="Snapchat">
 </a>
