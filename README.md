@@ -135,7 +135,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <h2>📊 GitHub Stats</h2>
 
-<h5 align="center">Profile View Count</h5>
+<p align="center">Profile View Count</p>
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" width="50%" alt="Profile visitor counter" >
