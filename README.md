@@ -1,6 +1,6 @@
 <!--
 
-Last Updated - 06/09/2023
+Last Updated - 07/09/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -129,10 +129,6 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <a href="mailto:rhythmusbyte@proton.me">
   <img src="https://img.shields.io/badge/Email-%23FF5722.svg?style=plastic&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://t.snapchat.com/4lzH9sSs">
-  <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=white" alt="Snapchat">
 </a>
 
 </center>
