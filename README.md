@@ -1,6 +1,6 @@
 <!--
 
-Last Updated - 07/09/2023
+Last Updated - 08/09/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -15,6 +15,8 @@ If your intention is to obtain the source code for my profile readme, please fol
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Gif">
     </a>
 </p>
+
+---
 
 <h2>✨ About Me:</h2>
 
@@ -42,6 +44,8 @@ If your intention is to obtain the source code for my profile readme, please fol
 ✍️ I write blogs on <a href="https://rhythmusbyte.blogspot.com" target="_blank">Blogger</a> and <a href="https://medium.com/@rhythmusbyte" target="_blank">Medium</a> and also articles on <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">LinkedIn</a> and <a href="https://dev.to/rhythmusbyte" target="_blank">Dev.to</a> about 'Journey of my projects and knowledge'.
 </p>
 
+---
+
 <h2>💡 Interests and Hobbies</h2>
 
 In my free time, I indulge in various activities that help me relax and expand my horizons. I enjoy:
@@ -52,7 +56,9 @@ In my free time, I indulge in various activities that help me relax and expand m
 - 🎬 Exploring movies and series 
 - 💻 Coding 
 - 🌐 Browsing the web 
-- 📚 Reading books 
+- 📚 Reading books
+
+---
 
 <h2>👨‍💻 Tech Stack</h2>
 
