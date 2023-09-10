@@ -7,8 +7,11 @@ If your intention is to obtain the source code for my profile readme, please fol
 
  -->
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my;GitHub+Profile+;Don't+forget+to+star;my+repo's+if+you+like+it;I'm+Akhil+Mahesh;Aka+RhythmusByte" alt="Typing SVG" /></a>
-
+ <!-- <a href="https://git.io/typing-svg"> -->
+ <a href="https://akhilmahesh.netlify.app">
+ <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+;Don't+forget+to+star+my+repo's+;if+you+like+it...;I'm+Akhil+Mahesh;Aka+RhythmusByte" alt="Typing SVG" />
+ </a>
+ 
 <p align="center">
     <a href="https://akhilmahesh.netlify.app">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Gif">
@@ -41,6 +44,8 @@ If your intention is to obtain the source code for my profile readme, please fol
 🌟 I've created some small <a href="#project">projects</a> you can check it out. All those were fully coded using only an Android Smartphone.
 
 ✍️ I write blogs on <a href="https://rhythmusbyte.blogspot.com" target="_blank">Blogger</a> and <a href="https://medium.com/@rhythmusbyte" target="_blank">Medium</a> and also articles on <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">LinkedIn</a> and <a href="https://dev.to/rhythmusbyte" target="_blank">Dev.to</a> about 'Journey of my projects and knowledge'.
+
+😝 Fun Fact: Reason behind naming <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">RhythmusByte</a> was just my love towards music and passion towards programming. Rhythm-us-Byte you can see that when we split the name like this. Rhythm stands for music and Byte stands for programming.
 </p>
 
 ---
