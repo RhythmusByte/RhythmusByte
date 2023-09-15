@@ -1,6 +1,6 @@
 <!--
 
-Last Updated - 10/09/2023
+Last Updated - 16/09/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -43,7 +43,7 @@ If your intention is to obtain the source code for my profile readme, please fol
     
 🌟 I've created some small <a href="#project">projects</a> you can check it out. All those were fully coded using only an Android Smartphone.
 
-✍️ I write blogs on <a href="https://rhythmusbyte.blogspot.com" target="_blank">Blogger</a> and <a href="https://medium.com/@rhythmusbyte" target="_blank">Medium</a> and also articles on <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">LinkedIn</a> and <a href="https://dev.to/rhythmusbyte" target="_blank">Dev.to</a> about 'Journey of my projects and knowledge'.
+✍️ I love write blogs on <a href="https://rhythmusbyte.blogspot.com" target="_blank">Blogger</a> and <a href="https://medium.com/@rhythmusbyte" target="_blank">Medium</a> and also articles on <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">LinkedIn</a> and <a href="https://dev.to/rhythmusbyte" target="_blank">Dev.to</a> about 'Journey of my projects and knowledge'.
 
 😝 Fun Fact: Reason behind naming <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">RhythmusByte</a> was just my love towards music and passion towards programming. Rhythm-us-Byte you can see that when we split the name like this. Rhythm stands for music and Byte stands for programming.
 </p>
