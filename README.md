@@ -1,6 +1,6 @@
 <!--
 
-Last Updated - 16/09/2023
+Last Updated - 17/09/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -89,7 +89,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 - <a href="https://github.com/RhythmusByte/Quote-Generator">Quote Generator</a>
 - <a href="https://github.com/RhythmusByte/LinkTree" target="_blank">Animated Link Tree</a>
 
-<h2 id="contact">📟 Get in Touch</h2>
+<h2 id="contact">☎️ Get in Touch</h2>
 
 <center>
  
