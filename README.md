@@ -1,6 +1,6 @@
 <!--
 
-Last Updated - 17/09/2023
+Last Updated - 18/09/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -91,7 +91,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <h2 id="contact">☎️ Get in Touch</h2>
 
-<center>
+<p align="center">
  
 <a href="https://www.linkedin.com/in/rhythmusbyte">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -141,7 +141,7 @@ In my free time, I indulge in various activities that help me relax and expand m
   <img src="https://img.shields.io/badge/Email-%23FF5722.svg?style=plastic&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</center>
+</p>
 
 <h2>📊 GitHub Stats</h2>
 
