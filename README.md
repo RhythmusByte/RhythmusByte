@@ -40,7 +40,7 @@ If your intention is to obtain the source code for my profile readme, please fol
     
 📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="#contact">contact me</a> anytime you want.
     
-🌟 I've created some small <a href="#project">projects</a> you can check it out. All those were fully coded using only an Android Smartphone.
+🌟 I've created some small projects you can <a href="#project">check it out</a>. All those were fully coded using only an Android Smartphone.
 
 ✍️ I love write blogs on <a href="https://rhythmusbyte.blogspot.com" target="_blank">Blogger</a> and <a href="https://medium.com/@rhythmusbyte" target="_blank">Medium</a> and also articles on <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">LinkedIn</a> and <a href="https://dev.to/rhythmusbyte" target="_blank">Dev.to</a> about 'Journey of my projects and knowledge'.
 
