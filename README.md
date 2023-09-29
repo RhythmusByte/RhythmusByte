@@ -1,8 +1,10 @@
 <!--
-Last Updated - 28/09/2023
+Last Updated - 29/09/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
+
+Some of the elements used in this readme was created by some great developers I lost the links for it, if you got those links please inform me.
  -->
   
  <a href="https://akhilmahesh.netlify.app">
