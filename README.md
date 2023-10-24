@@ -38,7 +38,7 @@ Some of the elements used in this readme was created by some great developers I 
     
 🌠  My mission is to create something unique and innovative, pushing the boundaries of what's been done before. I believe in being happy and finding fulfillment in my work and personal life.
     
-📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="#contact">contact me</a> anytime you want.
+📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="https://rhythmusbytelinks.netlify.app">contact me</a> anytime you want.
     
 🌟 I've created some small projects you can <a href="#project">check it out</a>. All those were fully coded using only an Android Smartphone.
 
@@ -133,10 +133,10 @@ In my free time, I indulge in various activities that help me relax and expand m
 </a>
 
 <a href="https://twitter.com/RhythmusByte">
-  <img src="https://img.shields.io/badge/@RhythmusByte-%23000000.svg?style=plastic&logo=X&logoColor=white" alt="X">
+  <img src="https://img.shields.io/badge/RhythmusByte-%23000000.svg?style=plastic&logo=X&logoColor=white" alt="X">
 </a>
 
-<a href="mailto:rhythmusbyte@proton.me">
+<a href="mailto:RhythmusByte@proton.me">
   <img src="https://img.shields.io/badge/Email-%23FF5722.svg?style=plastic&logo=gmail&logoColor=white" alt="Email">
 </a>
 
