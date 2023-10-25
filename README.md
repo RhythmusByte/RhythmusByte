@@ -1,5 +1,5 @@
 <!--
-Last Updated - 22/10/2023
+Last Updated - 25/10/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -30,7 +30,7 @@ Some of the elements used in this readme was created by some great developers I 
 </details>
 
 <p>
-🎀 I'm Akhil Mahesh, a passionate beginner with a strong interest in <b>Web Development</b>. I aspire to become a successful <b>Full Stack Developer</b> in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor in <b>Computer Applications (BCA)</b>.
+🎀 I'm Akhil Mahesh, a passionate beginner with a strong interest in <b>Web Development</b>. I aspire to become a successful <b>Full Stack Developer</b> in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor in <b><i>Computer Applications (BCA)</i></b>.
     
 🏁 My goal is to become a successful programmer and master the art of <b>Full Stack Development</b>.
     
