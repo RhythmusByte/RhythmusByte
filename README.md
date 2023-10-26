@@ -1,5 +1,5 @@
 <!--
-Last Updated - 25/10/2023
+Last Updated - 26/10/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -147,7 +147,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 <p align="center">Profile View Count</p>
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" width="50%" alt="Profile visitor counter" >
+<img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" width="50%" alt="Profile visitor counter">
 
 ---
 
