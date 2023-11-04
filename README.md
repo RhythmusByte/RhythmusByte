@@ -6,11 +6,11 @@ If your intention is to obtain the source code for my profile readme, please fol
 
 Some of the elements used in this readme was created by some great developers I lost the links for it, if you got those links please inform me.
  -->
-  
+ <div align='center'> 
  <a href="https://akhilmahesh.netlify.app">
  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+;Don't+forget+to+star+my+repo's+;if+you+like+it...;I'm+Akhil+Mahesh;Aka+RhythmusByte" alt="Typing SVG" />
  </a>
- 
+ </div>
 <p align="center">
     <a href="https://akhilmahesh.netlify.app">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Gif">
@@ -65,28 +65,25 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <h2>👨‍💻 Tech Stack</h2>
 
+<div align='center'>
 <h4>⌨️ Languages</h4>
-<center>
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&amp;logo=css3&amp;logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 
-</center>
-
 <h4>🖌️ Design Tools</h4>
-<center>
 
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&amp;logo=Adobe%20Lightroom&amp;logoColor=white" alt="Adobe Lightroom">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&amp;logo=Canva&amp;logoColor=white" alt="Canva">
-
-</center>
 
 <h2 id="project">👨‍💻 Projects</h2>
 
 - <a href="https://github.com/RhythmusByte/Personal-Website">Personal Website</a>
 - <a href="https://github.com/RhythmusByte/Quote-Generator">Quote Generator</a>
 - <a href="https://github.com/RhythmusByte/LinkTree" target="_blank">Animated Link Tree</a>
+
+</div>
 
 <h2 id="contact">☎️ Get in Touch</h2>
 
