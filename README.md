@@ -6,6 +6,7 @@ If your intention is to obtain the source code for my profile readme, please fol
 
 Some of the elements used in this readme was created by some great developers I lost the links for it, if you got those links please inform me.
  -->
+
  <div align='center'> 
  <a href="https://akhilmahesh.netlify.app">
  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+;Don't+forget+to+star+my+repo's+;if+you+like+it...;I'm+Akhil+Mahesh;Aka+RhythmusByte" alt="Typing SVG" />
