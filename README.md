@@ -1,5 +1,5 @@
 <!--
-Last Updated - 08/11/2023
+Last Updated - 14/11/2023
 Author - RhythmusByte 
 
 If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -149,11 +149,13 @@ In my free time, I indulge in various activities that help me relax and expand m
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" width="50%" alt="Profile visitor counter">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" alt="GitHub Profile Summary Cards">
+</p>
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight-duo&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500&stroke=00FFFD&fire=EB0000&currStreakNum=2CEB00&ring=E0EB00)](https://git.io/streak-stats)
-
+<center>
+<img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight-duo&border_radius=0&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</center>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
@@ -169,5 +171,7 @@ In my free time, I indulge in various activities that help me relax and expand m
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
- 
+
+</center>
+
 ---
