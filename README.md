@@ -12,7 +12,7 @@ Some of the elements used in this readme were created by some great developers. 
 
  <div align='center'> 
  <a href="https://akhilmahesh.netlify.app">
- <img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=18&duration=3500&pause=1000&color=00F71E&center=true&vCenter=true&random=false&width=435&lines=Greetings+everyone;+Welcome+to+my+GitHub+profile.;+I+am+Akhil+Mahesh." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=26&duration=3000&pause=1000&color=00F716&center=true&vCenter=true&random=false&width=435&lines=Welcome+guys;I'm+Akhil+Mahesh;A+beginner+programmer;+Enthusiast+in;Artificial+Intelligence" alt="Typing SVG" /></a>
  </a>
  </div>
 
