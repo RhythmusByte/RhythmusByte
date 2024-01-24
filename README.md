@@ -4,24 +4,33 @@ Author - RhythmusByte
 
 If your intention is to obtain the source code of my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
 
-Some of the elements used in this readme was created by some great developers I lost the links for it, if you got those links please inform me.
+Some of the elements used in this readme were created by some great developers. I didn't give any credits for them. If you have those links, please inform me.
 
  -->
+
+<!-- Typing SVG -->
 
  <div align='center'> 
  <a href="https://akhilmahesh.netlify.app">
  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=18&duration=3500&pause=1000&color=00F71E&center=true&vCenter=true&random=false&width=435&lines=Greetings+everyone;+Welcome+to+my+GitHub+profile.;+I+am+Akhil+Mahesh." alt="Typing SVG" />
  </a>
  </div>
-<p align="center">
+
+<!-- GIF -->
+ 
+<div align="center">
     <a href="https://akhilmahesh.netlify.app">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Gif">
     </a>
-</p>
+</div>
+
+<!-- GIF --> 
 
 ---
 
-<h2>✨ About Me:</h2>
+## ✨ About Me:
+
+<!-- Card Name -->
 
 ![RhythmusByte's card name](https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Full-Stack%20Developer%20with%20a%20passion%20for%20Artificial%20Intelligence.%20Continuous%20learner%20with%20a%20strong%20focus%20on%20improving%20coding%20skills&image=https://avatars.githubusercontent.com/u/124284817?v=4&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://akhilmahesh.netlify.app&pattern=ticTacToe&opacity=0&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte)
 
@@ -38,9 +47,10 @@ Some of the elements used in this readme was created by some great developers I 
     
 🌟 I've created some small projects you can <a href="#project">check it out</a>. All those were fully coded using only an Android Smartphone.
 
-✍️ I've published some articles on <a href="https://rhythmusbyte.blogspot.com" target="_blank">Blogger</a>, <a href="https://medium.com/@rhythmusbyte" target="_blank">Medium</a>, <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">LinkedIn</a> and <a href="https://dev.to/rhythmusbyte" target="_blank">Dev.to</a> about 'Journey of my projects and knowledge'.
+✍️ I've published some articles on
+[Blogger](https://rhythmusbyte.blogspot.com) , [Medium](https://medium.com/@rhythmusbyte), [LinkedIn](https://www.linkedin.com/in/rhythmusbyte) and [Dev.to](https://dev.to/rhythmusbyte) about **Journey of my projects and knowledge**.
 
-😝 Fun Fact: Reason behind naming <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">RhythmusByte</a> was just my love towards music and passion towards programming. Rhythm-us-Byte you can see that when we split the name like this. Rhythm stands for music and Byte stands for programming.
+😝 Fun Fact: Reason behind naming **RhythmusByte** was just my love towards music and passion towards programming. Rhythm-us-Byte you can see that when we split the name like this. Rhythm stands for music and Byte stands for programming.
 </p>
 
 ---
