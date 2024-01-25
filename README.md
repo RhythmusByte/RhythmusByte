@@ -1,5 +1,5 @@
 <!--
-Last Updated - 24/01/2024
+Last Updated - 25/01/2024
 Author - RhythmusByte 
 
 If your intention is to obtain the source code of my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
