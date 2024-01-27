@@ -56,6 +56,10 @@ Some of the elements used in this readme were created by some great developers. 
 <div align='center'>
 <h4>⌨️ Languages</h4>
 
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css)](https://akhilmahesh.netlify.app)
+
+<!--
+
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&amp;logo=python&amp;logoColor=white" alt="Python">
 
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&amp;logo=c&amp;logoColor=white" alt="C">
@@ -63,6 +67,8 @@ Some of the elements used in this readme were created by some great developers. 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&amp;logo=css3&amp;logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+
+-->
 
 <h4>🖌️ Design Tools</h4>
 
