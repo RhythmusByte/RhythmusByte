@@ -1,5 +1,5 @@
 <!--
-Last Updated - 25/01/2024
+Last Updated - 27/01/2024
 Author - RhythmusByte 
 
 If your intention is to obtain the source code of my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
@@ -34,38 +34,20 @@ Some of the elements used in this readme were created by some great developers. 
 
 ![RhythmusByte's card name](https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Full-Stack%20Developer%20with%20a%20passion%20for%20Artificial%20Intelligence.%20Continuous%20learner%20with%20a%20strong%20focus%20on%20improving%20coding%20skills&image=https://avatars.githubusercontent.com/u/124284817?v=4&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://akhilmahesh.netlify.app&pattern=ticTacToe&opacity=0&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte)
 
-<p>
-🎀 I'm Akhil Mahesh, a passionate beginner with a strong interest in <b>Artificial Intelligence</b>. I aspire to become a successful <b>Full Stack Developer</b> in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor in <b><i>Computer Applications (BCA)</i></b>.
-    
-🏁 My goal is to become a successful programmer and master the art of <b>Full Stack Development</b>.
-    
-🗺️ I also have a passion for travel and have enjoyed both solo trips and adventures with special companions. Exploring new places and experiencing different cultures bring me great joy and broaden my horizons.
+🎀 I'm Akhil Mahesh, a passionate beginner with a strong interest in **Artificial Intelligence**. I aspire to become a successful **Full Stack Developer** in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor's in **Computer Applications (BCA)**.
+
+👨‍💻 Contributed on [first-contributions](https://github.com/firstcontributions/first-contributions) as my first step towards my dream.
     
 🌠  My mission is to create something unique and innovative, pushing the boundaries of what's been done before. I believe in being happy and finding fulfillment in my work and personal life.
     
-📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="https://rhythmusbytelinks.netlify.app">contact me</a> anytime you want.
+📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge with me. You can always [contact me](https://rhythmusbytelinks.netlify.app).
     
-🌟 I've created some small projects you can <a href="#project">check it out</a>. All those were fully coded using only an Android Smartphone.
+🌟 I've created some small personal projects, you can <a href="#project">check that out</a>. All of them were fully coded using only an Android Smartphone.
 
 ✍️ I've published some articles on
 [Blogger](https://rhythmusbyte.blogspot.com) , [Medium](https://medium.com/@rhythmusbyte), [LinkedIn](https://www.linkedin.com/in/rhythmusbyte) and [Dev.to](https://dev.to/rhythmusbyte) about **Journey of my projects and knowledge**.
 
 😝 Fun Fact: Reason behind naming **RhythmusByte** was just my love towards music and passion towards programming. Rhythm-us-Byte you can see that when we split the name like this. Rhythm stands for music and Byte stands for programming.
-</p>
-
----
-
-## 💡 Interests and Hobbies
-
-In my free time, I indulge in various activities that help me relax and expand my horizons. I enjoy:
-
-- 🎧 Listening to music 
-- 📺 Watching anime 
-- 🎞️ Editing 
-- 🎬 Exploring movies and series 
-- 💻 Coding 
-- 🌐 Browsing the web 
-- 📚 Reading books
 
 ---
 
@@ -89,11 +71,13 @@ In my free time, I indulge in various activities that help me relax and expand m
 
 <h2 id="project">👨‍💻 Projects</h2>
 
-``These are some personal projects``
+``
+These are some personal projects
+``
   
-<a href="https://github.com/RhythmusByte/Personal-Website">Personal Website</a> <br>
+<a href="https://github.com/RhythmusByte/Personal-Website">Portfolio Website</a> <br>
 <a href="https://github.com/RhythmusByte/Quote-Generator">Quote Generator</a> <br>
-<a href="https://github.com/RhythmusByte/LinkTree" target="_blank">Animated Link Tree</a>
+<a href="https://github.com/RhythmusByte/LinkTree" target="_blank">Link Tree Website</a>
 
 </div>
 
@@ -161,22 +145,20 @@ In my free time, I indulge in various activities that help me relax and expand m
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" alt="GitHub Profile Summary Cards">
 </p>
 
-<br>
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight-duo&border_radius=0&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
 
 <br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=tokyonight" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Summary Cards">
 
 <br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte &theme=tokyonight&utcOffset=8" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte &theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&utcOffset=8" alt="GitHub Profile Summary Cards">
 
 <br>
 
