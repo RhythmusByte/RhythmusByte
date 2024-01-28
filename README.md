@@ -75,7 +75,7 @@ Some of the elements used in this readme were created by some great developers. 
 </details>
 <details>
 	<summary>🎶 𝙼𝚞𝚜𝚒𝚌 𝚒𝚜 𝚙𝚊𝚛𝚝 𝚘𝚏 𝚖𝚢 𝚕𝚒𝚏𝚎</summary>
- <a href="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify"></a>
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify"></a>
 	
 </details>
 
