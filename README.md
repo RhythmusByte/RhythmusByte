@@ -89,6 +89,7 @@ Some of the elements used in this readme were created by some great developers. 
 ](https://github-profile-summary-cards.vercel.app/demo.html) & [𝚂𝚝𝚊𝚝𝚜](https://github.com/anuraghazra/github-readme-stats)
 - 𝚂𝚅𝙶 𝙸𝚌𝚘𝚗𝚜: [𝙸𝚌𝚘𝚗𝚏𝚒𝚗𝚍𝚎𝚛](https://www.iconfinder.com)
 - 𝚁𝚊𝚗𝚍𝚘𝚖 𝚀𝚞𝚘𝚝𝚎𝚜: [𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚀𝚞𝚘𝚝𝚎𝚜](https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file)
+- 𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝚙𝚕𝚊𝚢𝚒𝚗𝚐: [𝚂𝚙𝚘𝚝𝚒𝚏𝚢](https://github.com/kittinan/spotify-github-profile?tab=readme-ov-file)
 
 
 <!-- last used 28/01/2024
