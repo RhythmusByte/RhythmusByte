@@ -1,92 +1,91 @@
 <!--
-Last Updated - 03/10/2023
+Last Updated - 27/01/2024
 Author - RhythmusByte 
 
-If your intention is to obtain the source code for my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
+If your intention is to obtain the source code of my profile readme, please follow and star this repository. You are free to use it but please give credits to the respective owners. 
 
-Some of the elements used in this readme was created by some great developers I lost the links for it, if you got those links please inform me.
+Some of the elements used in this readme were created by some great developers. I didn't give any credits for them. If you have those links, please inform me.
+
  -->
-  
+
+<!-- Typing SVG -->
+
+ <div align='center'> 
  <a href="https://akhilmahesh.netlify.app">
- <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=00EEFF&width=500&lines=Hey+Guys+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+;Don't+forget+to+star+my+repo's+;if+you+like+it...;I'm+Akhil+Mahesh;Aka+RhythmusByte" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=26&duration=3000&pause=1000&color=00F716&center=true&vCenter=true&random=false&width=435&lines=Welcome+guys;I'm+Akhil+Mahesh;A+beginner+programmer;+Enthusiast+in;Artificial+Intelligence" alt="Typing SVG" /></a>
  </a>
+ </div>
+
+<!-- GIF -->
  
-<p align="center">
+<div align="center">
     <a href="https://akhilmahesh.netlify.app">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Gif">
     </a>
-</p>
+</div>
+
+<!-- GIF --> 
 
 ---
 
-<h2>✨ About Me:</h2>
+## ✨ About Me:
 
-<details>
- <summary>Banner Image</summary>
- <img src="https://res.cloudinary.com/dqocmr8iu/image/upload/v1693739096/Git/banner_ymqrdo.jpg" alt="This is a banner image that introduces the RhythmusByte. I'm pursuing an undergraduate degree in BCA at a college affiliated to the University of Calicut and has a passion for full stack development. The image also provides my portfolio link and mail id for anyone who wants to connect or collaborate with me" width="100%">
+<!-- Card Name -->
 
-![RhythmusByte's card name](https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Full-Stack%20Developer%20with%20a%20passion%20for%20cyber%20security.%20Continuous%20learner%20with%20a%20strong%20focus%20on%20improving%20coding%20skills&image=https://res.cloudinary.com/dqocmr8iu/image/upload/v1693771505/Personal%20Images/91_97780_62036_20230814_090014_xgdmwn.jpg&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://akhilmahesh.netlify.app&pattern=ticTacToe&opacity=0&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte)
+![RhythmusByte's card name](https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Full-Stack%20Developer%20with%20a%20passion%20for%20Artificial%20Intelligence.%20Continuous%20learner%20with%20a%20strong%20focus%20on%20improving%20coding%20skills&image=https://avatars.githubusercontent.com/u/124284817?v=4&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://akhilmahesh.netlify.app&pattern=ticTacToe&opacity=0&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte)
 
-</details>
+🎀 I'm Akhil Mahesh, a passionate beginner with a strong interest in **Artificial Intelligence**. I aspire to become a successful **Full Stack Developer** in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor's in **Computer Applications (BCA)**.
 
-<p>
-🎀 I'm Akhil Mahesh, a passionate beginner with a strong interest in <b>Web Development</b>. I aspire to become a successful <b>Full Stack Developer</b> in the future. I believe in continuous learning and strive to improve my coding skills every day. Currently pursuing my Bachelor in <b>Computer Applications (BCA)</b>.
-    
-🏁 My goal is to become a successful programmer and master the art of <b>Full Stack Development</b>.
-    
-🗺️ I also have a passion for travel and have enjoyed both solo trips and adventures with special companions. Exploring new places and experiencing different cultures bring me great joy and broaden my horizons.
+👨‍💻 Contributed on [first-contributions](https://github.com/firstcontributions/first-contributions) as my first step towards my dream.
     
 🌠  My mission is to create something unique and innovative, pushing the boundaries of what's been done before. I believe in being happy and finding fulfillment in my work and personal life.
     
-📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge each other. You can <a href="#contact">contact me</a> anytime you want.
+📌 I'm seeking for assistance who can help me to achieve my dream. I'm open to collaborate with anyone who wants to learn and share knowledge with me. You can always [contact me](https://rhythmusbytelinks.netlify.app).
     
-🌟 I've created some small projects you can <a href="#project">check it out</a>. All those were fully coded using only an Android Smartphone.
+🌟 I've created some small personal projects, you can <a href="#project">check that out</a>. All of them were fully coded using only an Android Smartphone.
 
-✍️ I love write blogs on <a href="https://rhythmusbyte.blogspot.com" target="_blank">Blogger</a> and <a href="https://medium.com/@rhythmusbyte" target="_blank">Medium</a> and also articles on <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">LinkedIn</a> and <a href="https://dev.to/rhythmusbyte" target="_blank">Dev.to</a> about 'Journey of my projects and knowledge'.
+✍️ I've published some articles on
+[Blogger](https://rhythmusbyte.blogspot.com) , [Medium](https://medium.com/@rhythmusbyte), [LinkedIn](https://www.linkedin.com/in/rhythmusbyte) and [Dev.to](https://dev.to/rhythmusbyte) about **Journey of my projects and knowledge**.
 
-😝 Fun Fact: Reason behind naming <a href="https://www.linkedin.com/in/rhythmusbyte" target="_blank">RhythmusByte</a> was just my love towards music and passion towards programming. Rhythm-us-Byte you can see that when we split the name like this. Rhythm stands for music and Byte stands for programming.
-</p>
-
----
-
-<h2>💡 Interests and Hobbies</h2>
-
-In my free time, I indulge in various activities that help me relax and expand my horizons. I enjoy:
-
-- 🎧 Listening to music 
-- 📺 Watching anime 
-- 🎞️ Editing 
-- 🎬 Exploring movies and series 
-- 💻 Coding 
-- 🌐 Browsing the web 
-- 📚 Reading books
+😝 Fun Fact: Reason behind naming **RhythmusByte** was just my love towards music and passion towards programming. Rhythm-us-Byte you can see that when we split the name like this. Rhythm stands for music and Byte stands for programming.
 
 ---
 
-<h2>👨‍💻 Tech Stack</h2>
+## 👨‍💻 Tech Stack
 
+<div align='center'>
 <h4>⌨️ Languages</h4>
-<center>
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css)](https://akhilmahesh.netlify.app)
+
+<!--
+
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&amp;logo=python&amp;logoColor=white" alt="Python">
+
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&amp;logo=c&amp;logoColor=white" alt="C">
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&amp;logo=css3&amp;logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 
-</center>
+-->
 
 <h4>🖌️ Design Tools</h4>
-<center>
 
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&amp;logo=Adobe%20Lightroom&amp;logoColor=white" alt="Adobe Lightroom">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&amp;logo=Canva&amp;logoColor=white" alt="Canva">
-
-</center>
+<a href='https://lightroom.adobe.com'><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&amp;logo=Adobe%20Lightroom&amp;logoColor=white" alt="Adobe Lightroom"></a>
+<a href='https://www.canva.com'><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&amp;logo=Canva&amp;logoColor=white" alt="Canva"></a>
 
 <h2 id="project">👨‍💻 Projects</h2>
 
-- <a href="https://github.com/RhythmusByte/Personal-Website">Personal Website</a>
-- <a href="https://github.com/RhythmusByte/Quote-Generator">Quote Generator</a>
-- <a href="https://github.com/RhythmusByte/LinkTree" target="_blank">Animated Link Tree</a>
+``
+These are some personal projects
+``
+  
+<a href="https://github.com/RhythmusByte/Personal-Website">Portfolio Website</a> <br>
+<a href="https://github.com/RhythmusByte/Quote-Generator">Quote Generator</a> <br>
+<a href="https://github.com/RhythmusByte/LinkTree" target="_blank">Link Tree Website</a>
+
+</div>
 
 <h2 id="contact">☎️ Get in Touch</h2>
 
@@ -133,10 +132,10 @@ In my free time, I indulge in various activities that help me relax and expand m
 </a>
 
 <a href="https://twitter.com/RhythmusByte">
-  <img src="https://img.shields.io/badge/@RhythmusByte-%23000000.svg?style=plastic&logo=X&logoColor=white" alt="X">
+  <img src="https://img.shields.io/badge/RhythmusByte-%23000000.svg?style=plastic&logo=X&logoColor=white" alt="X">
 </a>
 
-<a href="mailto:rhythmusbyte@proton.me">
+<a href="mailto:AkhilMahesh@proton.me">
   <img src="https://img.shields.io/badge/Email-%23FF5722.svg?style=plastic&logo=gmail&logoColor=white" alt="Email">
 </a>
 
@@ -147,35 +146,29 @@ In my free time, I indulge in various activities that help me relax and expand m
 <p align="center">Profile View Count</p>
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" width="50%" alt="Profile visitor counter" >
-
----
+<img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" width="50%" alt="Profile visitor counter">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" alt="GitHub Profile Summary Cards">
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight-duo&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=500&stroke=00FFFD&fire=EB0000&currStreakNum=2CEB00&ring=E0EB00)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Summary Cards">
 
 <br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=tokyonight" alt="GitHub Profile Summary Cards">
-
-<br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte &theme=tokyonight&utcOffset=8" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte &theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&utcOffset=8" alt="GitHub Profile Summary Cards">
 
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
-
 </p>
 
-<h2>🎵 Spotify</h2>
-
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true">   
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0000ff&bar_color_cover=false" alt="Spotify Now Playing" />
+---
