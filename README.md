@@ -45,7 +45,7 @@ Some of the elements used in this readme were created by some great developers. 
 ## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜
 
 <p align="center">
-<b>Profile Views</b>
+<b>Profile Views</b><br>
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg">
 <br>
 <img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
