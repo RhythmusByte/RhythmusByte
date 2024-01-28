@@ -35,12 +35,10 @@ Some of the elements used in this readme were created by some great developers. 
 
 - ✨𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 	 [![𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜](https://skillicons.dev/icons?i=python,c,js,html,css)](https://akhilmahesh.netlify.app)
-- ✂️ 𝙴𝚍𝚒𝚝𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜 <br>
-	 <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="30px" weight="30px">
-- ✍️ 𝙸 𝚠𝚛𝚒𝚝𝚎 𝚋𝚕𝚘𝚐𝚜/𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 <br>
-	 <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/LinkedIn.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Medium.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Dev.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Blogger.svg" height="30px" weight="30px">
+- ✂️ 𝙴𝚍𝚒𝚝𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜 <br> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="30px" weight="30px">
+- ✍️ 𝙸 𝚠𝚛𝚒𝚝𝚎 𝚋𝚕𝚘𝚐𝚜/𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 <br><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/LinkedIn.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Medium.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Dev.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Blogger.svg" height="30px" weight="30px">
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚘𝚛 𝚟𝚒𝚊 𝚖𝚢 [𝚘𝚝𝚑𝚎𝚛 𝚜𝚘𝚌𝚒𝚊𝚕𝚜](https://rhythmusbytelinks.netlify.app). 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚘𝚛 𝚟𝚒𝚊 𝚖𝚢 [𝚘𝚝𝚑𝚎𝚛 𝚜𝚘𝚌𝚒𝚊𝚕𝚜](https://rhythmusbytelinks.netlify.app). 𝙳𝚘𝚗'𝚝 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 - <a href="https://www.linkedin.com/in/rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/LinkedIn.svg" height="30px" weight="30px"></a> <a href="https://instagram.com/rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Instagram.svg" height="30px" weight="30px"></a> <a href="https://twitter.com/RhythmusByte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/X.svg" height="30px" weight="30px"></a>
 
@@ -48,21 +46,23 @@ Some of the elements used in this readme were created by some great developers. 
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" alt="GitHub Profile Summary Cards">
 <br>
-
 <img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
+
+<details>
+  <summary>📈 𝙾𝚝𝚑𝚎𝚛 𝚂𝚝𝚊𝚝𝚜</summary>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" alt="GitHub Profile Summary Cards">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Summary Cards">
 
 <br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte &theme=dark&no-frame=false&no-bg=true&margin-w=4&utcOffset=8" alt="GitHub Profile Summary Cards">
-<img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" /> 
+</details>
 </p>
 
 <details>
