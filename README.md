@@ -73,6 +73,11 @@ Some of the elements used in this readme were created by some great developers. 
 <summary>🖋️ 𝚁𝚊𝚗𝚍𝚘𝚖 𝚀𝚞𝚘𝚝𝚎𝚜</summary>
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quotes">
 </details>
+<details>
+	<summary>🎶 𝙼𝚞𝚜𝚒𝚌 𝚒𝚜 𝚙𝚊𝚛𝚝 𝚘𝚏 𝚖𝚢 𝚕𝚒𝚏𝚎</summary>
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify"></a>
+	
+</details>
 
 ## 🔥𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝙸 𝚞𝚜𝚎𝚍 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚛𝚎𝚊𝚍𝚖𝚎
 
@@ -86,8 +91,9 @@ Some of the elements used in this readme were created by some great developers. 
 - 𝚁𝚊𝚗𝚍𝚘𝚖 𝚀𝚞𝚘𝚝𝚎𝚜: [𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚀𝚞𝚘𝚝𝚎𝚜](https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file)
 
 
+<!-- last used 28/01/2024
 
-<!--
+
  <div align='center'> 
  <a href="https://akhilmahesh.netlify.app">
  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=26&duration=3000&pause=1000&color=00F716&center=true&vCenter=true&random=false&width=435&lines=Welcome+guys;I'm+Akhil+Mahesh;A+beginner+programmer;+Enthusiast+in;Artificial+Intelligence" alt="Typing SVG" /></a>
