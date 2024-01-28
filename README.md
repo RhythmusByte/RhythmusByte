@@ -29,7 +29,8 @@ Some of the elements used in this readme were created by some great developers. 
 	- 𝙸 𝚠𝚛𝚘𝚝𝚎 𝚜𝚘𝚖𝚎 𝚋𝚕𝚘𝚐𝚜 𝚊𝚗𝚍 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 𝚜𝚎𝚟𝚎𝚛𝚊𝚕 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜
 
 ## 🚀 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-- ✌️ Contributed on [first-contributions](https://github.com/firstcontributions/first-contributions) as my first step towards my dream.
+- ✌️ 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚘𝚗 [𝚏𝚒𝚛𝚜𝚝-𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜](https://github.com/firstcontributions/first-contributions) 𝚊𝚜 𝚖𝚢 𝚏𝚒𝚛𝚜𝚝 𝚜𝚝𝚎𝚙 𝚝𝚘𝚠𝚊𝚛𝚍𝚜 𝚖𝚢 𝚍𝚛𝚎𝚊𝚖.
+  
 ## 🛠️ 𝚃𝚘𝚘𝚕𝚜 𝙸 𝚄𝚜𝚎
 
 - ✨𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
