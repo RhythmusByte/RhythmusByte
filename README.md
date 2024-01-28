@@ -55,14 +55,15 @@ Some of the elements used in this readme were created by some great developers. 
 <details>
   <summary>📈 𝙾𝚝𝚑𝚎𝚛 𝚂𝚝𝚊𝚝𝚜</summary>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=dark" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=merko" alt="GitHub Profile Summary Cards">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Summary Cards">
 
 <br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte &theme=dark&no-frame=false&no-bg=true&margin-w=4&utcOffset=8" alt="GitHub Profile Summary Cards">
-<img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte &theme=merko&no-frame=false&no-bg=true&margin-w=4&utcOffset=8" alt="GitHub Profile Summary Cards">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" /> 
 </details>
 </p>
 
