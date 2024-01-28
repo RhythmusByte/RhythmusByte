@@ -48,21 +48,21 @@ Some of the elements used in this readme were created by some great developers. 
 <b>Profile Views</b><br>
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg">
 <br>
-<img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=dark&no-frame=false&no-bg=true&margin-w=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=dark&no-frame=false&no-bg=true&margin-w=4&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
 
 <details>
   <summary>📈 𝙾𝚝𝚑𝚎𝚛 𝚂𝚝𝚊𝚝𝚜</summary>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=dark" alt="GitHub Profile Summary Cards">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Summary Cards">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Summary Cards">
 
 <br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte &theme=dark&no-frame=false&no-bg=true&margin-w=4&utcOffset=8" alt="GitHub Profile Summary Cards">
-<img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" /> 
 </details>
 </p>
 
