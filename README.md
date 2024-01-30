@@ -33,7 +33,7 @@ Some of the elements used in this readme were created by some great developers. 
   
 ## 🛠️ 𝚃𝚘𝚘𝚕𝚜 𝙸 𝚄𝚜𝚎
 
-- ✨𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+- ✨𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 <br>
 	 [![𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜](https://skillicons.dev/icons?i=python,c,js,html,css)](https://akhilmahesh.netlify.app)
 - ✂️ 𝙴𝚍𝚒𝚝𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜 <br> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="30px" weight="30px">
 - ✍️ 𝙸 𝚠𝚛𝚒𝚝𝚎 𝚋𝚕𝚘𝚐𝚜/𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 <br><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/LinkedIn.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Medium.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Dev.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Blogger.svg" height="30px" weight="30px">
