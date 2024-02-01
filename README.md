@@ -49,7 +49,7 @@ Some of the elements used in this readme were created by some great developers. 
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg">
 <br>
 <img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=dark&no-frame=false&no-bg=true&margin-w=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=dark&no-frame=false&no-bg=true&margin-w=4&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
 
 <details>
