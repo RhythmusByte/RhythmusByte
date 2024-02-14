@@ -9,7 +9,8 @@ Author - RhythmusByte
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚝𝚑𝚘𝚞𝚐𝚑𝚝𝚜.
-- 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚢𝚝𝚑𝚘𝚗 𝚟𝚒𝚊 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝚟𝚒𝚍𝚎𝚘𝚜 𝚏𝚛𝚘𝚖 [𝚃𝚎𝚕𝚞𝚜𝚔𝚘'𝚜](https://youtube.com/@Telusko?si=3qg5bpRowt8TysRu) & [𝙹𝚎𝚗𝚗𝚢'𝚜](https://youtube.com/@JennyslecturesCSIT?si=Oq9uF_boz2LWlSw1) 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜, 𝚊𝚗𝚍 𝚊𝚕𝚜𝚘 𝚋𝚢 𝚍𝚘𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 [𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜](https://github.com/practical-tutorials/project-based-learning).
+<!-- - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚢𝚝𝚑𝚘𝚗 𝚟𝚒𝚊 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝚟𝚒𝚍𝚎𝚘𝚜 𝚏𝚛𝚘𝚖 [𝚃𝚎𝚕𝚞𝚜𝚔𝚘'𝚜](https://youtube.com/@Telusko?si=3qg5bpRowt8TysRu) & [𝙹𝚎𝚗𝚗𝚢'𝚜](https://youtube.com/@JennyslecturesCSIT?si=Oq9uF_boz2LWlSw1) 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜, 𝚊𝚗𝚍 𝚊𝚕𝚜𝚘 𝚋𝚢 𝚍𝚘𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 [𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜](https://github.com/practical-tutorials/project-based-learning). -->
+- 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙲 𝚟𝚒𝚊 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝚟𝚒𝚍𝚎𝚘𝚜 𝚏𝚛𝚘𝚖 [𝙹𝚎𝚗𝚗𝚢'𝚜](https://youtube.com/@JennyslecturesCSIT?si=Oq9uF_boz2LWlSw1) 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜
 - 𝙿𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚛𝚘𝚖 [𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝙲𝚊𝚕𝚒𝚌𝚞𝚝](https://uoc.ac.in), 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝙰𝚙𝚛𝚒𝚕 2025.
 - 𝙸 𝚑𝚊𝚍 𝚊𝚗 [𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/@alonephilic) 𝚘𝚗𝚌𝚎.
 
@@ -25,14 +26,18 @@ Author - RhythmusByte
   
 ## 🛠️ 𝚃𝚘𝚘𝚕𝚜 𝙸 𝚄𝚜𝚎
 
-- ✨𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 <br>
-	 [![𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜](https://skillicons.dev/icons?i=python,c,js,html,css)](https://akhilmahesh.netlify.app)
-- ✂️ 𝙴𝚍𝚒𝚝𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜 <br> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="30px" weight="30px">
-- ✍️ 𝙸 𝚠𝚛𝚒𝚝𝚎 𝚋𝚕𝚘𝚐𝚜/𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 <br><a href="https://www.linkedin.com/in/rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/LinkedIn.svg" height="30px" weight="30px"></a> <a href="https://medium.com/@rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Medium.svg" height="30px" weight="30px"></a> <a href="https://dev.to/rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Dev.svg" height="30px" weight="30px"></a> <a href="https://rhythmusbyte.blogspot.com"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Blogger.svg" height="30px" weight="30px"></a>
+- ✨𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+<div align="center"><a href="https://rhythmusbytelinks.netlify.app"><img src="https://skillicons.dev/icons?i=python,c,js,html,css" alt="Languages"></a></div>
+  
+- ✂️ 𝙴𝚍𝚒𝚝𝚒𝚗𝚐 𝚃𝚘𝚘𝚕𝚜
+<div align="center"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="30px" weight="30px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="30px" weight="30px"></div>
+
+- ✍️ 𝙱𝚕𝚘𝚐𝚜/𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜
+<div align="center"><a href="https://www.linkedin.com/in/rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/LinkedIn.svg" height="30px" weight="30px"></a> <a href="https://medium.com/@rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Medium.svg" height="30px" weight="30px"></a> <a href="https://dev.to/rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Dev.svg" height="30px" weight="30px"></a> <a href="https://rhythmusbyte.blogspot.com"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Blogger.svg" height="30px" weight="30px"></a></div>
+
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚘𝚛 𝚟𝚒𝚊 𝚖𝚢 [𝚘𝚝𝚑𝚎𝚛 𝚜𝚘𝚌𝚒𝚊𝚕𝚜](https://rhythmusbytelinks.netlify.app). 𝙳𝚘𝚗'𝚝 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
-
-- <a href="https://www.linkedin.com/in/rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/LinkedIn.svg" height="30px" weight="30px"></a> <a href="https://instagram.com/rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Instagram.svg" height="30px" weight="30px"></a> <a href="https://twitter.com/RhythmusByte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/X.svg" height="30px" weight="30px"></a>
+<div align="center"><a href="https://www.linkedin.com/in/rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/LinkedIn.svg" height="30px" weight="30px"></a> <a href="https://instagram.com/rhythmusbyte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Instagram.svg" height="30px" weight="30px"></a> <a href="https://twitter.com/RhythmusByte"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/X.svg" height="30px" weight="30px"></a></div>
 
 ## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜
 
