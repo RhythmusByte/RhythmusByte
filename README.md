@@ -1,10 +1,9 @@
 <!--
-Last Updated - 15/022024
+Last Updated - 23/02/2024
 Author - RhythmusByte 
  -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&duration=5000&pause=800&color=00FF0A&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Akhil+Mahesh;A+beginner+%26+passionate+programmer;Enthusiastic+about;AI+%26+Emerging+Technologies;BTW%2C+Welcome+to+my+GH+profile)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=3000&pause=1000&color=00EEFF&center=true&vCenter=true&random=false&width=435&lines=Hello+there;Welcome+to+my+profile;I'm+Akhil+Mahesh)](https://git.io/typing-svg)
 [![RhythmusByte's card name](https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Full-Stack%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://avatars.githubusercontent.com/u/124284817?v=4&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://akhilmahesh.netlify.app&pattern=ticTacToe&opacity=0&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte)](https://akhilmahesh.netlify.app)
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
