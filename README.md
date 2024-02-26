@@ -5,9 +5,11 @@ Author - RhythmusByte
 <div align='center'>
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=3000&pause=1000&color=00EEFF&center=true&vCenter=true&random=false&width=435&lines=Hello+there;Welcome+to+my+profile;I'm+Akhil+Mahesh)](https://git.io/typing-svg)
+
 [![RhythmusByte's card name](https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Full-Stack%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://avatars.githubusercontent.com/u/124284817?v=4&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://akhilmahesh.netlify.app&pattern=ticTacToe&opacity=0&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte)](https://akhilmahesh.netlify.app)
 
 </div>
+
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚝𝚑𝚘𝚞𝚐𝚑𝚝𝚜.
 <!-- - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚢𝚝𝚑𝚘𝚗 𝚟𝚒𝚊 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝚟𝚒𝚍𝚎𝚘𝚜 𝚏𝚛𝚘𝚖 [𝚃𝚎𝚕𝚞𝚜𝚔𝚘'𝚜](https://youtube.com/@Telusko?si=3qg5bpRowt8TysRu) & [𝙹𝚎𝚗𝚗𝚢'𝚜](https://youtube.com/@JennyslecturesCSIT?si=Oq9uF_boz2LWlSw1) 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜, 𝚊𝚗𝚍 𝚊𝚕𝚜𝚘 𝚋𝚢 𝚍𝚘𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 [𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜](https://github.com/practical-tutorials/project-based-learning). -->
