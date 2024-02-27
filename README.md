@@ -12,8 +12,8 @@ Author - RhythmusByte
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚝𝚑𝚘𝚞𝚐𝚑𝚝𝚜.
-<!-- - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚢𝚝𝚑𝚘𝚗 𝚟𝚒𝚊 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝚟𝚒𝚍𝚎𝚘𝚜 𝚏𝚛𝚘𝚖 [𝚃𝚎𝚕𝚞𝚜𝚔𝚘'𝚜](https://youtube.com/@Telusko?si=3qg5bpRowt8TysRu) & [𝙹𝚎𝚗𝚗𝚢'𝚜](https://youtube.com/@JennyslecturesCSIT?si=Oq9uF_boz2LWlSw1) 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜, 𝚊𝚗𝚍 𝚊𝚕𝚜𝚘 𝚋𝚢 𝚍𝚘𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 [𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜](https://github.com/practical-tutorials/project-based-learning). -->
-- 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙲 𝚟𝚒𝚊 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝚟𝚒𝚍𝚎𝚘𝚜 𝚏𝚛𝚘𝚖 [𝙹𝚎𝚗𝚗𝚢'𝚜](https://youtube.com/@JennyslecturesCSIT?si=Oq9uF_boz2LWlSw1) 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜
+- 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚢𝚝𝚑𝚘𝚗 𝚟𝚒𝚊 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝚟𝚒𝚍𝚎𝚘𝚜 𝚏𝚛𝚘𝚖 [𝚃𝚎𝚕𝚞𝚜𝚔𝚘'𝚜](https://youtube.com/@Telusko?si=3qg5bpRowt8TysRu) & [𝙹𝚎𝚗𝚗𝚢'𝚜](https://youtube.com/@JennyslecturesCSIT?si=Oq9uF_boz2LWlSw1) 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜, 𝚊𝚗𝚍 𝚊𝚕𝚜𝚘 𝚋𝚢 𝚍𝚘𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 [𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜](https://github.com/practical-tutorials/project-based-learning). 
+<!-- - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙲 𝚟𝚒𝚊 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝚟𝚒𝚍𝚎𝚘𝚜 𝚏𝚛𝚘𝚖 [𝙹𝚎𝚗𝚗𝚢'𝚜](https://youtube.com/@JennyslecturesCSIT?si=Oq9uF_boz2LWlSw1) 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜 --> 
 - 𝙿𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚛𝚘𝚖 [𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝙲𝚊𝚕𝚒𝚌𝚞𝚝](https://uoc.ac.in), 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝙰𝚙𝚛𝚒𝚕 2025.
 - 𝙸 𝚑𝚊𝚍 𝚊𝚗 [𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/@alonephilic) 𝚘𝚗𝚌𝚎.
 
