@@ -68,8 +68,9 @@ Author - RhythmusByte
 </p>
 
 <details>
-<summary>😹 𝚁𝚊𝚗𝚍𝚘𝚖 𝙳𝚎𝚟 𝙼𝚎𝚖𝚎</summary>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+	<summary>😹 𝚁𝚊𝚗𝚍𝚘𝚖 𝙳𝚎𝚟 𝙼𝚎𝚖𝚎</summary>
+	<div align="center">
+		<img src='https://randommeme-five.vercel.app/' style="height: 100%;"/>
 </details>
 <details>
 <summary>🖋️ 𝚁𝚊𝚗𝚍𝚘𝚖 𝚀𝚞𝚘𝚝𝚎𝚜</summary>
