@@ -54,7 +54,7 @@ Author - RhythmusByte
 
 <details>
   <summary>📈 𝙾𝚝𝚑𝚎𝚛 𝚂𝚝𝚊𝚝𝚜</summary>
-
+<div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=merko" alt="GitHub Profile Summary Cards">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhythmusByte &theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Summary Cards">
@@ -64,8 +64,18 @@ Author - RhythmusByte
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte &theme=merko&no-frame=false&no-bg=true&margin-w=4&utcOffset=8" alt="GitHub Profile Summary Cards">
 
 <img src="https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" /> 
+</div>
 </details>
 </p>
+
+<details>
+	<summary>:sparkles: Dev Card</summary>
+	<div align="center">
+		<a href="https://app.daily.dev/rhythmusbyte">
+			<img src="https://api.daily.dev/devcards/v2/wA0qWULB3YHcAyN43REdC.png?type=wide&r=t98" width="652" alt="Akhil Mahesh's Dev Card"/>
+		</a>
+	</div>
+</details>
 
 <details>
 	<summary>😹 𝚁𝚊𝚗𝚍𝚘𝚖 𝙳𝚎𝚟 𝙼𝚎𝚖𝚎</summary>
