@@ -71,15 +71,19 @@ Author - RhythmusByte
 	<summary>😹 𝚁𝚊𝚗𝚍𝚘𝚖 𝙳𝚎𝚟 𝙼𝚎𝚖𝚎</summary>
 	<div align="center">
 		<img src='https://randommeme-five.vercel.app/' style="height: 100%;"/>
+	</div>
 </details>
 <details>
 <summary>🖋️ 𝚁𝚊𝚗𝚍𝚘𝚖 𝚀𝚞𝚘𝚝𝚎𝚜</summary>
+	<div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quotes">
+	</div>
 </details>
 <details>
 	<summary>🎶 𝙼𝚞𝚜𝚒𝚌 𝚒𝚜 𝚙𝚊𝚛𝚝 𝚘𝚏 𝚖𝚢 𝚕𝚒𝚏𝚎</summary>
+  <div align="center">
  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify"></a>
-	
+  </div>
 </details>
 
 <details>
