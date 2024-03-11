@@ -69,7 +69,7 @@ Author - RhythmusByte
 </p>
 
 <details>
-	<summary>:sparkles: Dev Card</summary>
+	<summary>:sparkles: 𝙳𝚎𝚟 𝙲𝚊𝚛𝚍</summary>
 	<div align="center">
 		<a href="https://app.daily.dev/rhythmusbyte">
 			<img src="https://api.daily.dev/devcards/v2/wA0qWULB3YHcAyN43REdC.png?type=wide&r=t98" width="652" alt="Akhil Mahesh's Dev Card"/>
