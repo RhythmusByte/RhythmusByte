@@ -1,5 +1,5 @@
 <!--  
-Last Updated - 13/03/2024
+Last Updated - 15/03/2024
 Author - RhythmusByte
  -->
 <div align='center'>
@@ -28,7 +28,8 @@ Author - RhythmusByte
 
 ## 🚀 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 - ✌️ 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚘𝚗 [𝚏𝚒𝚛𝚜𝚝-𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜](https://github.com/firstcontributions/first-contributions) 𝚊𝚜 𝚖𝚢 𝚏𝚒𝚛𝚜𝚝 𝚜𝚝𝚎𝚙 𝚝𝚘𝚠𝚊𝚛𝚍𝚜 𝚖𝚢 𝚍𝚛𝚎𝚊𝚖
-- 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝚊 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚝𝚘 𝚜𝚑𝚊𝚛𝚎 𝚖𝚢 𝚗𝚘𝚝𝚎𝚜 𝚘𝚗 [𝙿𝚢𝚝𝚑𝚘𝚗](https://github.com/RhythmusByte/Python)
+- ✨ 𝚂𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕𝚢 𝚖𝚊𝚍𝚎 𝚝𝚑𝚎 𝙿𝚁 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚒𝚗 [𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎-𝚝𝚘-𝚝𝚑𝚒𝚜-𝙿𝚛𝚘𝚓𝚎𝚌𝚝](https://github.com/Syknapse/Contribute-To-This-Project)
+- ⭐ 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝚊 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚝𝚘 𝚜𝚑𝚊𝚛𝚎 𝚖𝚢 𝚗𝚘𝚝𝚎𝚜 𝚘𝚗 [𝙿𝚢𝚝𝚑𝚘𝚗](https://github.com/RhythmusByte/Python)
   
 ## 🛠️ 𝚃𝚘𝚘𝚕𝚜 𝙸 𝚄𝚜𝚎
 
