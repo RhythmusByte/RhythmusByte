@@ -30,7 +30,7 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 - Completed a pull request and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 🚀
 
 ---
-## Projects
+## 🌟 Projects
 > Project's on the way...
 
 ---
