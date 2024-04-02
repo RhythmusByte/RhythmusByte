@@ -30,6 +30,10 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 - Completed a pull request and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 🚀
 
 ---
+## Projects
+> Project's on the way...
+
+---
 
 ## 📤 Get In Touch
 > Hit me up using the email on my GitHub profile or slide into my DMs on [social media](https://rhythmusbytelinks.netlify.app)!
