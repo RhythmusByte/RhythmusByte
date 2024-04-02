@@ -33,7 +33,10 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 ## 📤 Get In Touch
 > Hit me up using the email on my GitHub profile or slide into my DMs on [social media](https://rhythmusbytelinks.netlify.app)!
 
+<div align='center'>
+	
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RhythmusByte) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhythmusbyte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhythmusbyte) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RhythmusByte)
+</div>
 
 ---
 
