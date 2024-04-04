@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Personal Story
-I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep fascination for artificial intelligence and cutting-edge technologies. Currently, I'm on an exciting journey pursuing my bachelor's degree in computer application from the esteemed University of Calicut. 🎓 Originally hailing from the beautiful city of Trivandrum, Kerala, I bring a blend of cultural richness and technical prowess to the table. I'm a part-time blogger! [Check out my blogs](https://rhythmusbytelinks.netlify.app).
+I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep fascination for artificial intelligence and cutting-edge technologies. Currently, I'm on an exciting journey pursuing my bachelor's degree in computer application from the esteemed [University of Calicut](https://uoc.ac.in). 🎓 Originally hailing from the beautiful city of Trivandrum, Kerala, I bring a blend of cultural richness and technical prowess to the table. I'm a part-time blogger! [Check out my blogs](https://rhythmusbytelinks.netlify.app).
 > 💡 Fun Fact: Ever wondered about the story behind my username, "RhythmusByte"? Well, it's a perfect fusion of my two greatest loves: music and programming! By breaking it down, "rhythm" symbolizes my affinity for music, while "byte" represents my passion for coding. Together, they form a harmonious blend that encapsulates my creative spirit and technical prowess.
 
 ---
@@ -30,6 +30,7 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 - Completed a pull request and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 🚀
 
 ---
+
 ## 🌟 Projects
 > Project's on the way...
 
