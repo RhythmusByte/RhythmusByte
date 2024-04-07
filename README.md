@@ -18,6 +18,7 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 - [x] 🦄 Contribute on a project 
 - [ ] 🚀 Learn JavaScript!
 - [ ] ✨ Creating a JavaScript Project
+- [ ] 🌟 Acquire Frontend Skills
 - [ ] 🎀 Learn Python! 
 - [ ] 💫 Creating a Python Project
 - [ ] 🎯 Become a Software Developer
