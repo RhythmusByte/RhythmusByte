@@ -17,7 +17,7 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 ## 🎗️ Future Aspirations
 - [x] 🦄 Contribute on a project 
 - [x] 💖 Learn HTML & CSS
-- [ ] 🌟 Acquire Frontend Skills
+- [ ] 🌟 Learn a front-end framework
 - [ ] ⚡ Get an Internship in an IT Company
 - [ ] 🚀 Learn JavaScript!
 - [ ] ✨ Create a JavaScript Project
