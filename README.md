@@ -35,7 +35,7 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 ---
 
 ## 🌟 Projects
-> On the way...
+> Planning to create something...
 
 ---
 
