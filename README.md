@@ -67,7 +67,11 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 
 ![](https://github-readme-stats.vercel.app/api?username=RhythmusByte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) <br> 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RhythmusByte&theme=tokyonight&hide_border=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RhythmusByte&theme=tokyonight&hide_border=false)
+
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte&theme=tokyonight&utcOffset=8)
 </div>
