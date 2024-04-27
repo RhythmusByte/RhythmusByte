@@ -97,7 +97,7 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 <details>
         <summary>☕ Random Dev Meme</summary>
         <div align="center">
-                <img src='https://randommeme-five.vercel.app/' style="height: 100%;"/>
+                <img src='https://randommeme-five.vercel.app' alt="Random Dev Meme" height="100%">
         </div>
 </details>
 <details>
@@ -109,18 +109,6 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 <details>
         <summary>🎶 What's I'm listening?</summary>
   <div align="center">
- <a href="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify"></a>
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Last Played on Spotify"></a>
   </div>
 </details>
-
-<!--🔥 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝙸 𝚞𝚜𝚎𝚍
-
-- 𝙳𝚢𝚗𝚊𝚖𝚒𝚌𝚊𝚕𝚕𝚢 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚍, 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚋𝚕𝚎 𝚊𝚗𝚒𝚖𝚊𝚝𝚎𝚍 𝚝𝚢𝚙𝚒𝚗𝚐 𝚂𝚅𝙶: [𝚁𝙴𝙰𝙳𝙼𝙴 𝚃𝚢𝚙𝚒𝚗𝚐 𝚂𝚅𝙶](https://github.com/DenverCoder1/readme-typing-svg?tab=readme-ov-file)
-- 𝙰𝚖𝚊𝚣𝚒𝚗𝚐 𝚌𝚊𝚛𝚍 𝚗𝚊𝚖𝚎 : [𝙲𝚊𝚛𝚍𝚒𝚟𝚘 𝙲𝚊𝚛𝚍 𝙽𝚊𝚖𝚎](https://github.com/satyawikananda/cardivo)
-- 𝙼𝚘𝚗𝚘𝚜𝚙𝚊𝚌𝚎𝚍 𝚝𝚎𝚡𝚝 𝚏𝚛𝚘𝚖 [𝚈𝚊𝚢𝚝𝚎𝚡𝚝](https://yaytext.com/monospace)
-- 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚒𝚌𝚘𝚗𝚜 𝚏𝚛𝚘𝚖: [𝚂𝚔𝚒𝚕𝚕 𝙸𝚌𝚘𝚗𝚜](https://github.com/tandpfun/skill-icons)
-- 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜: [𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚞𝚖𝚖𝚊𝚛𝚢 𝙲𝚊𝚛𝚍𝚜
-](https://github-profile-summary-cards.vercel.app/demo.html) & [𝚂𝚝𝚊𝚝𝚜](https://github.com/anuraghazra/github-readme-stats)
-- 𝚂𝚅𝙶 𝙸𝚌𝚘𝚗𝚜: [𝙸𝚌𝚘𝚗𝚏𝚒𝚗𝚍𝚎𝚛](https://www.iconfinder.com)
-- 𝚁𝚊𝚗𝚍𝚘𝚖 𝚀𝚞𝚘𝚝𝚎𝚜: [𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚀𝚞𝚘𝚝𝚎𝚜](https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file)
-- 𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝚙𝚕𝚊𝚢𝚒𝚗𝚐: [𝚂𝚙𝚘𝚝𝚒𝚏𝚢](https://github.com/kittinan/spotify-github-profile?tab=readme-ov-file)  -->
