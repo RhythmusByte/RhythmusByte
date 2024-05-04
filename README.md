@@ -15,10 +15,10 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 ---
 
 ## 🎗️ Future Aspirations
-- [x] 🦄 Contribute on a project 
+- [x] 🦄 Contribute on a project
+- [x] ⚡ Get an Internship in an IT Company
 - [x] 💖 Learn HTML & CSS
 - [ ] 🌟 Learn a front-end framework
-- [ ] ⚡ Get an Internship in an IT Company
 - [ ] 🚀 Learn JavaScript!
 - [ ] ✨ Create a JavaScript Project
 - [ ] 🎀 Learn Python! 
@@ -35,7 +35,8 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 ---
 
 ## 🌟 Projects
-> Planning to create something...
+- [Supercell Website](https://github.com/RhythmusByte/Supercell)
+> More projects on the way
 
 ---
 
