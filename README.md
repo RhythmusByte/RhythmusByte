@@ -18,8 +18,8 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 - [x] 🦄 Contribute on a project
 - [x] ⚡ Get an Internship in an IT Company
 - [x] 💖 Learn HTML & CSS
+- [x] 🚀 Learn JavaScript!
 - [ ] 🌟 Learn a front-end framework
-- [ ] 🚀 Learn JavaScript!
 - [ ] ✨ Create a JavaScript Project
 - [ ] 🎀 Learn Python! 
 - [ ] 💫 Create a Python Project
@@ -35,6 +35,7 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 ---
 
 ## 🌟 Projects
+- [Weather Infoga](https://weatherinfoga.vercel.app)
 - [Supercell Website](https://github.com/RhythmusByte/Supercell)
 > More projects on the way
 
