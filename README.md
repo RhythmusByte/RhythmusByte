@@ -2,35 +2,37 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=3500&pause=1000&color=00EEFF&center=true&vCenter=true&random=false&width=435&lines=Hello+there;Welcome+to+my+profile;I'm+Akhil+Mahesh)](https://rhythmusbytelinks.netlify.app)
 
-[![RhythmusByte's card name](https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Software%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://res.cloudinary.com/rhythmusbyte/image/upload/v1713382355/Others/IMG-20240229-WA0033_xiz073.jpg&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://rhythmusbytelinks.netlify.app&pattern=ticTacToe&opacity=0&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte)](https://rhythmusbytelinks.netlify.app)
+[![RhythmusByte's card name](https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Software%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://res.cloudinary.com/rhythmusbyte/image/upload/v1713382355/Others/IMG-20240229-WA0033_xiz073.jpg&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://rhythmusbytelinks.netlify.app&pattern=leaf&opacity=0.1&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte)](https://rhythmusbytelinks.netlify.app)
 
 </div> 
 
 ---
 
-## 🚀 Personal Story
-I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep fascination for artificial intelligence and cutting-edge technologies. Currently, I'm on an exciting journey pursuing my bachelor's degree in computer application from the esteemed [Calicut University](https://uoc.ac.in). Originally hailing from  Trivandrum, Kerala. I'm a part-time blogger! [Check out my blogs](https://rhythmusbytelinks.netlify.app).
-> 💡 Fun Fact: Ever wondered about the story behind my username, "RhythmusByte"? Well, it's a perfect fusion of my two greatest loves: music and programming! By breaking it down, "rhythm" symbolizes my affinity for music, while "byte" represents my passion for coding. Together, they form a harmonious blend that encapsulates my creative spirit and technical prowess.
+## 🚀 About Me
+My name is Akhil Mahesh, I aspire to become an IT profession. Currently, I'm pursuing my bachelor's degree in computer application. 
+
+## 💡 Fun Fact
+My username "RhythmusByte" has been created by the fusion of my love towards music (coz, music is a part of my life) and my passion towards programming.
 
 ---
 
 ## 🎗️ Future Aspirations
 - [x] 🦄 Contribute on a project
-- [x] ⚡ Get an Internship in an IT Company
 - [x] 💖 Learn HTML & CSS
 - [x] 🚀 Learn JavaScript!
+- [x] ⚡ Get an Internship in an IT Company
 - [ ] 🌟 Learn a front-end framework
-- [ ] ✨ Create a JavaScript Project
+- [ ] ✨ Learn Node.JS
 - [ ] 🎀 Learn Python! 
-- [ ] 💫 Create a Python Project
+- [ ] 💫 Create a project using Python
 - [ ] 🎯 Become a Software Developer
 > The list goes on and on...
 
 ---
 
 ## 🪄 Recent GitHub Activities
-- Just took my first step toward my dream journey by contributing to the '[First Contributions](https://github.com/firstcontributions/first-contributions)' repo!
-- Completed a pull request and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 🚀
+- Published a new project [WeatherInfoga](https://github.com/RhythmusByte/WeatherInfoga)
+- Completed a PR and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 🚀
 
 ---
 
@@ -65,17 +67,13 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 <div align='center'>
 
 <b>Profile Views</b><br>
-<img src="https://profile-counter.glitch.me/RhythmusByte/count.svg">
-
-![](https://github-readme-stats.vercel.app/api?username=RhythmusByte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) <br> 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RhythmusByte&theme=tokyonight&hide_border=false)
-
+<img src="https://profile-counter.glitch.me/RhythmusByte/count.svg"><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RhythmusByte&theme=tokyonight&hide_border=false" width="500px" alt="GitHub Streak"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=RhythmusByte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="250px" alt="GitHub Stats">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" width="250px" alt="Profile Summary of RhythmusByte">
 <br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte&theme=tokyonight&utcOffset=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="250px" alt="Top Languages">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte&theme=tokyonight&utcOffset=8" width="250px" alt="Cards">
 </div>
 
 ## 🏆 GitHub Trophies
@@ -84,6 +82,11 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
 ![](https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
+
+## 📝 Latest Blog Posts
+- [Privacy is Important](https://medium.com/@rhythmusbyte/privacy-is-important-a98c85ad1969)
+  
+	> How they use your data? How much safer are you on the internet?
 
 ---
 
@@ -96,12 +99,6 @@ I'm Akhil Mahesh, a passionate software developer on the rise, fueled by a deep 
         </div>
 </details>
 
-<details>
-        <summary>☕ Random Dev Meme</summary>
-        <div align="center">
-                <img src='https://randommeme-five.vercel.app' alt="Random Dev Meme" height="100%">
-        </div>
-</details>
 <details>
 <summary>🖋️ Random Quotes</summary>
         <div align="center">
