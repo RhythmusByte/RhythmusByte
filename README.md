@@ -38,7 +38,9 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 
 ## 🌟 Projects
 - [Weather Infoga](https://weatherinfoga.vercel.app)
-- [Supercell Website](https://github.com/RhythmusByte/Supercell)
+  
+	> A weather app which fetch live weather data from [OpenWeatherMap](https://openweathermap.org) API.
+  
 > More projects on the way
 
 ---
