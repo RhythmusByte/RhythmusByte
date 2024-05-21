@@ -1,9 +1,5 @@
 # Full Stack Development
 
----
-
----
-
 ## 📌 Must Avoid Mistakes
 
 1. Don't spend too much time to learn basics like **HTML, CSS and JavaScript**
