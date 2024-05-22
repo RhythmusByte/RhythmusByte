@@ -29,21 +29,23 @@
 - [ ] **Create a Project:** Apply what you've learned.
 - [ ] **Learn a CSS Framework:** (e.g., Bootstrap, Tailwind)
 - [ ] **Learn a JavaScript Framework:** (e.g., React, Vue, Angular)
-- [ ] **Create a Project:** Build something using your chosen JS framework.
+- [ ] **Learn TypeScript**
+- [ ] **Learn Next.JS**
+- [ ] **Create a Project:** Build something using your chosen JS framework
 - [ ] **Choose a Backend Language:** (e.g., Node.js, Python, Ruby, PHP)
 - [ ] **Learn a Backend Framework:** (e.g., Express for Node.js, Django/Flask for Python)
 - [ ] **Learn SQL Basics:** (e.g., MySQL, PostgreSQL)
 - [ ] **Learn NoSQL Database:** (e.g., MongoDB)
-- [ ] **Learn Basic Linux Commands:** Useful for server management.
+- [ ] **Learn Basic Linux Commands:** Useful for server management
 - [ ] **Learn About Web Servers:** (e.g., Apache, Nginx)
 - [ ] **DevOps Basics:**
-    - [ ] **CI/CD Pipelines:** Understand Continuous Integration/Continuous Deployment.
-    - [ ] **Containers:** Learn Docker and Kubernetes.
+    - [ ] **CI/CD Pipelines:** Understand Continuous Integration/Continuous Deployment
+    - [ ] **Containers:** Learn Docker and Kubernetes
 - [ ] **APIs and RESTful Services:**
-    - [ ] Understand how to create and consume RESTful APIs.
-    - [ ] Learn about GraphQL as an alternative.
-- [ ] **Security Basics:** Learn about common security threats and mitigation techniques.
-- [ ] **Soft Skills:** Improve communication and problem-solving abilities.
+    - [ ] Understand how to create and consume RESTful APIs
+    - [ ] Learn about GraphQL as an alternative
+- [ ] **Security Basics:** Learn about common security threats and mitigation techniques
+- [ ] **Soft Skills:** Improve communication and problem-solving abilities
 
 ---
 
