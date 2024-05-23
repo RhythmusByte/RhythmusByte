@@ -32,6 +32,7 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 
 ## 🪄 Recent GitHub Activities
 - Working on a [Auditorium Booking Website](https://github.com/RhythmusByte/VenueVerse)
+- Tried to create a custom [Supercell](https://github.com/RhythmusByte/Supercell) website
 - Published a new project [WeatherInfoga](https://github.com/RhythmusByte/WeatherInfoga)
 - Completed a PR and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 🚀
 
