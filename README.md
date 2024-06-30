@@ -88,7 +88,11 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 </div>
 
 ## 📝 Latest Blog Posts
-- [Privacy is Important](https://medium.com/@rhythmusbyte/privacy-is-important-a98c85ad1969)
+- [6 Useful Resources; Front-End Development](https://rhythmusbyte.blogspot.com/2024/06/frontend-resources-part1.html)
+
+  > Six useful resources for aspiring front-end developers
+
+-  [Privacy is Important](https://medium.com/@rhythmusbyte/privacy-is-important-a98c85ad1969)
   
 	> How they use your data? How much safer are you on the internet?
 
