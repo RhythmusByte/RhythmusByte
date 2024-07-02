@@ -113,11 +113,5 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quotes">
         </div>
 </details>
-<details>
-        <summary>🎶 What's I'm listening?</summary>
-  <div align="center">
- <a href="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gvkj7oelt5axfiwpjew4l6gcwi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Last Played on Spotify"></a>
-  </div>
-</details>
 
 ---
