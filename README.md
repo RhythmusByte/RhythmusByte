@@ -99,6 +99,13 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 ---
 
 <details>
+	<summary>🦄 Roadmap Progress</summary>
+	<div align="center">
+		<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668538371fed2580f15b6a7e?variant=dark&roadmaps=python%2Cfull-stack" alt="roadmap.sh"/></a>
+	</div>
+</details>
+
+<details>
         <summary>:sparkles: Dev Card</summary>
         <div align="center">
                 <a href="https://app.daily.dev/rhythmusbyte">
