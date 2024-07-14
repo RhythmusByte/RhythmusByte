@@ -1,4 +1,4 @@
-<div align="center">
+<div align='center'>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=3500&pause=1000&color=00EEFF&center=true&vCenter=true&random=false&width=435&lines=Hello+there;Welcome+to+my+profile;I'm+Akhil+Mahesh)](https://rhythmusbytelinks.netlify.app)
 
