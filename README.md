@@ -59,7 +59,7 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 
 ## 💻 Tech Stack
 - 🧑‍💻 Languages
-	<div align="center"><a href="https://rhythmusbytelinks.netlify.app"><img src="https://skillicons.dev/icons?i=js,python,html,css,c" alt="Languages"></a></div>
+	<div align="center"><a href="https://rhythmusbytelinks.netlify.app"><img src="https://skillicons.dev/icons?i=js,python,java,html,css,c" alt="Languages"></a></div>
 - 🎨 Design Tools
 	<div align="center"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="50px" weight="50px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="50px" weight="50px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/photoshop-svgrepo-com.svg"  height="50px" width="50px"></div>
 - 🌐 Hosting <br>
