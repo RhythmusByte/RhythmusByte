@@ -88,7 +88,7 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 </div>
 
 ## 📝 Latest Blog Posts
-- [6 Useful Resources; Front-End Development](https://rhythmusbyte.blogspot.com/2024/06/frontend-resources-part1.html)
+- [6 Useful Resources; Front-End Development](https://medium.com/@rhythmusbyte/6-useful-resources-for-beginners-front-end-development-f6332f4ad3de)
 
   > Six useful resources for aspiring front-end developers
 
