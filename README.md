@@ -99,18 +99,9 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 ---
 
 <details>
-	<summary>🦄 Roadmap Progress</summary>
-	<div align="center">
-	  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668538371fed2580f15b6a7e?variant=dark" alt="roadmap.sh"/></a>
-	</div>
-</details>
-
-<details>
         <summary>:sparkles: Dev Card</summary>
         <div align="center">
-                <a href="https://app.daily.dev/rhythmusbyte">
-                        <img src="https://api.daily.dev/devcards/v2/wA0qWULB3YHcAyN43REdC.png?type=wide&r=t98" width="652" alt="Akhil Mahesh's Dev Card"/>
-                </a>
+                <a href="https://app.daily.dev/rhythmusbyte"><img src="https://api.daily.dev/devcards/v2/wA0qWULB3YHcAyN43REdC.png?type=default&r=rr1" width="356" alt="Akhil Mahesh's Dev Card"/></a>
         </div>
 </details>
 
