@@ -18,22 +18,19 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 
 ## 🎗️ Future Aspirations
 - [x] 🦄 Contribute on a project
-- [x] 💖 Learn HTML & CSS
-- [x] 🚀 Learn JavaScript!
 - [x] ⚡ Get an Internship in an IT Company
-- [ ] 🌟 Learn a front-end framework
-- [ ] ✨ Learn Node.JS
-- [ ] 🎀 Learn Python! 
-- [ ] 💫 Create a project using Python
+- [ ] 📍 Create a portfolio website from scratch
+- [ ] ✨ Create a full stack project
+- [ ] 💡 Make my profile README to an auto updating one
 - [ ] 🎯 Become a Software Developer
 > The list goes on and on...
 
 ---
 
 ## 🪄 Recent GitHub Activities
-- Working on a [Auditorium Booking Website](https://github.com/RhythmusByte/VenueVerse)
+- Creating a new version of [WeatherInfoga](https://github.com/RhythmusByte/Weather-Infoga) by using React library
 - Tried to create a custom [Supercell](https://github.com/RhythmusByte/Supercell) website
-- Published a new project [WeatherInfoga](https://github.com/RhythmusByte/WeatherInfoga)
+- Published a new project [WeatherInfoga V1](https://github.com/RhythmusByte/WeatherInfoga)
 - Completed a PR and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 🚀
 
 ---
@@ -59,9 +56,21 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 
 ## 💻 Tech Stack
 - 🧑‍💻 Languages
-	<div align="center"><a href="https://rhythmusbytelinks.netlify.app"><img src="https://skillicons.dev/icons?i=js,python,java,html,css,c" alt="Languages"></a></div>
+	<div align="center">
+		<a href="https://rhythmusbytelinks.netlify.app">
+			<img src="https://skillicons.dev/icons?i=js,python,java,html,css,c" alt="Languages">
+		</a>
+	</div>
+- 🪄 Framework/Library/Database
+	<div align="center">
+		<a href="https://rhythmusbytelinks.netlify.app">
+			<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Languages">
+		</a>
+	</div>
+  
 - 🎨 Design Tools
 	<div align="center"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="50px" weight="50px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="50px" weight="50px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/photoshop-svgrepo-com.svg"  height="50px" width="50px"></div>
+
 - 🌐 Hosting <br>
   ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
@@ -88,6 +97,10 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 </div>
 
 ## 📝 Latest Blog Posts
+- [6 Useful Resources; Front-End Development Part II](https://medium.com/@rhythmusbyte/frontend-development-resources-633188cecf22)
+
+  > Part 2 of the **useful resources for aspiring front-end developers** series
+  
 - [6 Useful Resources; Front-End Development](https://medium.com/@rhythmusbyte/6-useful-resources-for-beginners-front-end-development-f6332f4ad3de)
 
   > Six useful resources for aspiring front-end developers
@@ -99,7 +112,7 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 ---
 
 <details>
-        <summary>:sparkles: Dev Card</summary>
+        <summary>✨ Dev Card</summary>
         <div align="center">
                 <a href="https://app.daily.dev/rhythmusbyte"><img src="https://api.daily.dev/devcards/v2/wA0qWULB3YHcAyN43REdC.png?type=default&r=rr1" width="356" alt="Akhil Mahesh's Dev Card"/></a>
         </div>
