@@ -78,11 +78,9 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 <b>Profile Views</b><br>
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RhythmusByte&theme=tokyonight&hide_border=false" width="500px" alt="GitHub Streak"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=RhythmusByte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="250px" alt="GitHub Stats">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RhythmusByte&theme=tokyonight" width="250px" alt="Profile Summary of RhythmusByte">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&bg_color=21232a&color=a8eeff&line=E10000&point=f0fcff&area=true&hide_border" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="250px" alt="Top Languages">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte&theme=tokyonight&utcOffset=8" width="250px" alt="Cards">
 </div>
 
 ## :trophy: GitHub Trophies
