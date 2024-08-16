@@ -87,7 +87,10 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 
 <b>Profile Views</b><br>
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" alt="Profile Views"><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RhythmusByte&theme=tokyonight&hide_border=false" width="500px" alt="GitHub Streak"><br>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&ring=E10000&fire=FF4500&currStreakNum=FF6347&stroke=FF4500&border=FF4500&sideNums=FF6347&currStreakLabel=FF6347&sideLabels=C0C0C0&dates=C0C0C0&excludeDaysLabel=C0C0C0" alt="GitHub Streak" />
+</a>
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&bg_color=21232a&color=a8eeff&line=E10000&point=f0fcff&area=true&hide_border" alt="GitHub Activity Graph"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="250px" alt="Top Languages">
