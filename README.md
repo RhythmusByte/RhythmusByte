@@ -9,16 +9,16 @@
 ---
 
 ## :ribbon: About Me
-My name is Akhil Mahesh, I aspire to become an IT profession. Currently, I'm a pursuing my bachelor's degree in computer application. 
+My name is Akhil Mahesh, and I aspire to become an IT professional. Currently, I'm pursuing my bachelor's degree in computer applications.
 
 ## :bulb: Fun Fact
-My username "RhythmusByte" has been created by the fusion of my love towards music (coz, music is a part of my life) and my passion towards programming.
+My username "RhythmusByte" is a fusion of my love for music (since music is a part of my life) and my passion for programming.
 
 ---
 
 ## :dart: Future Aspirations
-- [x] :unicorn: Contribute on a project
-- [x] :pushpin: Get an Internship in an IT Company
+- [x] :unicorn: Contribute to a project
+- [x] :pushpin: Get an internship in an IT company
 - [ ] :rocket: Create a project using **Python**
 
 ---
@@ -34,9 +34,9 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 ## :star2: Projects
 - [Weather Infoga](https://weatherinfoga.vercel.app)
   
-	> A weather app which fetch live weather data using [OpenWeatherMap](https://openweathermap.org) API.
+	> A weather app that fetches live weather data using [OpenWeatherMap](https://openweathermap.org) API.
   
-> More projects on the way
+> More projects are on the way!
 
 ---
 
@@ -60,15 +60,25 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 - :label: Framework/Library/Database
 	<div align="center">
 		<a href="https://rhythmusbytelinks.netlify.app">
-			<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Languages">
+			<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Frameworks and Libraries">
 		</a>
 	</div>
   
 - :paintbrush: Design Tools
-	<div align="center"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="50px" weight="50px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="50px" weight="50px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/photoshop-svgrepo-com.svg"  height="50px" width="50px"></div>
+	<div align="center">
+		<img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="50px" width="50px" alt="Canva">
+		<img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="50px" width="50px" alt="Lightroom">
+		<img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/photoshop-svgrepo-com.svg" height="50px" width="50px" alt="Photoshop">
+	</div>
 
-- :globe_with_meridians: Hosting <br>
-  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+- :globe_with_meridians: Hosting
+  <div align="center">
+	  
+    ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  
+  </div>
 
 ---
 
@@ -76,9 +86,9 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 <div align='center'>
 
 <b>Profile Views</b><br>
-<img src="https://profile-counter.glitch.me/RhythmusByte/count.svg"><br>
+<img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" alt="Profile Views"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RhythmusByte&theme=tokyonight&hide_border=false" width="500px" alt="GitHub Streak"><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&bg_color=21232a&color=a8eeff&line=E10000&point=f0fcff&area=true&hide_border" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&bg_color=21232a&color=a8eeff&line=E10000&point=f0fcff&area=true&hide_border" alt="GitHub Activity Graph"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="250px" alt="Top Languages">
 </div>
@@ -99,7 +109,7 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 
   > Six useful resources for aspiring front-end developers
 
--  [Privacy is Important](https://medium.com/@rhythmusbyte/privacy-is-important-a98c85ad1969)
+- [Privacy is Important](https://medium.com/@rhythmusbyte/privacy-is-important-a98c85ad1969)
   
 	> How they use your data? How much safer are you on the internet?
 
@@ -109,20 +119,21 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 	<summary>:zap: My Card</summary>
 	<div align="center">
 		<img alt="My Card" src="https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Software%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://res.cloudinary.com/rhythmusbyte/image/upload/v1713382355/Others/IMG-20240229-WA0033_xiz073.jpg&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://rhythmusbytelinks.netlify.app&pattern=leaf&opacity=0.1&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte" />
+	</div>
 </details>
 
 <details>
-        <summary>:sparkles: Dev Card</summary>
-        <div align="center">
-                <a href="https://app.daily.dev/rhythmusbyte"><img src="https://api.daily.dev/devcards/v2/wA0qWULB3YHcAyN43REdC.png?type=default&r=rr1" width="356" alt="Akhil Mahesh's Dev Card"/></a>
-        </div>
+    <summary>:sparkles: Dev Card</summary>
+    <div align="center">
+        <a href="https://app.daily.dev/rhythmusbyte" target="_blank"><img src="https://api.daily.dev/devcards/v2/wA0qWULB3YHcAyN43REdC.png?type=default&r=rr1" width="356" alt="Akhil Mahesh's Dev Card"/></a>
+    </div>
 </details>
 
 <details>
 <summary>:fountain_pen: Random Quotes</summary>
-        <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quotes">
-        </div>
+    <div align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quotes">
+    </div>
 </details>
 
 ---
