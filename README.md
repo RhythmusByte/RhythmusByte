@@ -8,34 +8,30 @@
 
 ---
 
-## 🚀 About Me
+## :ribbon: About Me
 My name is Akhil Mahesh, I aspire to become an IT profession. Currently, I'm pursuing my bachelor's degree in computer application. 
 
-## 💡 Fun Fact
+## :bulb: Fun Fact
 My username "RhythmusByte" has been created by the fusion of my love towards music (coz, music is a part of my life) and my passion towards programming.
 
 ---
 
-## 🎗️ Future Aspirations
-- [x] 🦄 Contribute on a project
-- [x] ⚡ Get an Internship in an IT Company
-- [ ] 📍 Create a portfolio website from scratch
-- [ ] ✨ Create a full stack project
-- [ ] 💡 Make my profile README to an auto updating one
-- [ ] 🎯 Become a Software Developer
-> The list goes on and on...
+## :dart: Future Aspirations
+- [x] :unicorn: Contribute on a project
+- [x] :pushpin: Get an Internship in an IT Company
+- [ ] :rocket: Create a project using **Python**
 
 ---
 
-## 🪄 Recent GitHub Activities
-- Creating a new version of [WeatherInfoga](https://github.com/RhythmusByte/Weather-Infoga) by using React library
+## :magic_wand: Recent GitHub Activities
+- Halted my project [WeatherInfoga V2](https://github.com/RhythmusByte/Weather-Infoga)
 - Tried to create a custom [Supercell](https://github.com/RhythmusByte/Supercell) website
 - Published a new project [WeatherInfoga V1](https://github.com/RhythmusByte/WeatherInfoga)
-- Completed a PR and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 🚀
+- Completed a PR and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 
 
 ---
 
-## 🌟 Projects
+## :star2: Projects
 - [Weather Infoga](https://weatherinfoga.vercel.app)
   
 	> A weather app which fetch live weather data using [OpenWeatherMap](https://openweathermap.org) API.
@@ -44,7 +40,7 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 
 ---
 
-## 📤 Get In Touch
+## :mailbox_with_no_mail: Get In Touch
 > Hit me up using the email on my GitHub profile or slide into my DMs on [social media](https://rhythmusbytelinks.netlify.app)!
 
 <div align='center'>
@@ -54,29 +50,29 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 
 ---
 
-## 💻 Tech Stack
-- 🧑‍💻 Languages
+## :computer: Tech Stack
+- :technologist: Languages
 	<div align="center">
 		<a href="https://rhythmusbytelinks.netlify.app">
 			<img src="https://skillicons.dev/icons?i=js,python,java,html,css,c" alt="Languages">
 		</a>
 	</div>
-- 🪄 Framework/Library/Database
+- :label: Framework/Library/Database
 	<div align="center">
 		<a href="https://rhythmusbytelinks.netlify.app">
 			<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Languages">
 		</a>
 	</div>
   
-- 🎨 Design Tools
+- :paintbrush: Design Tools
 	<div align="center"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="50px" weight="50px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="50px" weight="50px"> <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/photoshop-svgrepo-com.svg"  height="50px" width="50px"></div>
 
-- 🌐 Hosting <br>
+- :globe_with_meridians: Hosting <br>
   ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
 
-## 📊 GitHub Stats:
+## :bar_chart: GitHub Stats:
 <div align='center'>
 
 <b>Profile Views</b><br>
@@ -89,14 +85,14 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RhythmusByte&theme=tokyonight&utcOffset=8" width="250px" alt="Cards">
 </div>
 
-## 🏆 GitHub Trophies
+## :trophy: GitHub Trophies
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
-## 📝 Latest Blog Posts
+## :memo: Latest Blog Posts
 - [6 Useful Resources; Front-End Development Part II](https://medium.com/@rhythmusbyte/frontend-development-resources-633188cecf22)
 
   > Part 2 of the **useful resources for aspiring front-end developers** series
@@ -112,14 +108,14 @@ My username "RhythmusByte" has been created by the fusion of my love towards mus
 ---
 
 <details>
-        <summary>✨ Dev Card</summary>
+        <summary>:sparkles: Dev Card</summary>
         <div align="center">
                 <a href="https://app.daily.dev/rhythmusbyte"><img src="https://api.daily.dev/devcards/v2/wA0qWULB3YHcAyN43REdC.png?type=default&r=rr1" width="356" alt="Akhil Mahesh's Dev Card"/></a>
         </div>
 </details>
 
 <details>
-<summary>🖋️ Random Quotes</summary>
+<summary>:fountain_pen: Random Quotes</summary>
         <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quotes">
         </div>
