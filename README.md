@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=3500&pause=1000&color=E10000&center=true&vCenter=true&random=false&width=435&lines=Hello+there;Welcome+to+my+profile;I'm+Akhil+Mahesh)](https://rhythmusbytelinks.netlify.app)
 
+![Develop Web](Images/develop-web.gif)
+
 [![RhythmusByte's card name](https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Software%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://res.cloudinary.com/rhythmusbyte/image/upload/v1713382355/Others/IMG-20240229-WA0033_xiz073.jpg&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://rhythmusbytelinks.netlify.app&pattern=leaf&opacity=0.1&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte)](https://rhythmusbytelinks.netlify.app)
 
 </div> 
