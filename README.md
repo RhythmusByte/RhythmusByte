@@ -87,9 +87,9 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 
 <b>Profile Views</b><br>
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" alt="Profile Views"><br>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=RhythmusByte&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&ring=E10000&fire=FF4500&currStreakNum=FF6347&stroke=FF4500&border=FF4500&sideNums=FF6347&currStreakLabel=FF6347&sideLabels=C0C0C0&dates=C0C0C0&excludeDaysLabel=C0C0C0" alt="GitHub Streak" />
-</a>
+
+<a href="https://rhythmusbyte-github-streak.vercel.app/demo/"><img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&stroke=FF4500&border=FF4500&fire=E10000&ring=FF4500&currStreakNum=FF6347&sideNums=FF6347&currStreakLabel=FF6347&sideLabels=C0C0C0&dates=C0C0C0&excludeDaysLabel=DFDFDF" alt="GitHub Streak" /></a>
+
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&bg_color=21232a&color=a8eeff&line=E10000&point=f0fcff&area=true&hide_border" alt="GitHub Activity Graph"/>
 <br/>
