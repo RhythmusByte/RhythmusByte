@@ -20,6 +20,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 - [x] :unicorn: Contribute to a project
 - [x] :pushpin: Get an internship in an IT company
 - [ ] :rocket: Create a project using **Python**
+> The list goes on and on....
 
 ---
 
