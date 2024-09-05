@@ -19,7 +19,8 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 ## :dart: Future Aspirations
 - [x] :unicorn: Contribute to a project
 - [x] :pushpin: Get an internship in an IT company
-- [ ] :rocket: Create a project using **Python**
+- [ ] :four_leaf_clover: Learn **Flutter**
+- [ ] :rocket: Create a project using **Flutter**
 > The list goes on and on....
 
 ---
