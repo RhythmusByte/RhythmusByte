@@ -54,7 +54,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 - :technologist: Languages
 	<div align="center">
 		<a href="https://rhythmusbytelinks.netlify.app">
-			<img src="https://skillicons.dev/icons?i=js,python,java,html,css,c" alt="Languages">
+			<img src="https://skillicons.dev/icons?i=js,dart,flutter,python,java,html,css,c" alt="Languages">
 		</a>
 	</div>
 - :label: Framework/Library/Database
