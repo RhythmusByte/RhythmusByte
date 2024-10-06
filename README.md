@@ -9,7 +9,7 @@
 ---
 
 ## :ribbon: About Me
-My name is Akhil Mahesh, and I aspire to become an IT professional. Currently, I'm pursuing my bachelor's degree in computer applications.
+I'm Akhil Mahesh, and my dream job is to be a software developer. Right now, I'm studying computer applications at the esteemed University of Calicut.
 
 ## :bulb: Fun Fact
 My username "RhythmusByte" is a fusion of my love for music (since music is a part of my life) and my passion for programming.
@@ -26,9 +26,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 ---
 
 ## :magic_wand: Recent GitHub Activities
-- Halted my project [WeatherInfoga V2](https://github.com/RhythmusByte/Weather-Infoga)
-- Tried to create a custom [Supercell](https://github.com/RhythmusByte/Supercell) website
-- Published a new project [WeatherInfoga V1](https://github.com/RhythmusByte/WeatherInfoga)
+- Published a new project [WeatherInfoga](https://github.com/RhythmusByte/WeatherInfoga)
 - Completed a PR and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 
 
 ---
