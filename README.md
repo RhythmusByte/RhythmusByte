@@ -9,7 +9,7 @@
 ---
 
 ## 🎀 About Me
-I'm Akhil Mahesh, and my dream job is to be a software developer. Right now, I'm studying computer applications at the esteemed University of Calicut.
+I'm Akhil Mahesh, and my dream job is to be a **software developer**. Right now, I'm studying computer applications at the esteemed University of Calicut.
 
 ## 💡 Fun Fact
 My username "RhythmusByte" is a fusion of my love for music (since music is a part of my life) and my passion for programming.
