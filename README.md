@@ -92,7 +92,6 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" alt="Profile Views"><br>
 
 <a href="https://rhythmusbyte-github-streak.vercel.app"><img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=green-nur&fire=EB0000" alt="GitHub Streak" /></a>
-
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&bg_color=21232a&color=a8eeff&line=E10000&point=f0fcff&area=true&hide_border" alt="GitHub Activity Graph"/>
 <br/>
@@ -102,7 +101,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=RhythmusByte&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rhythmusbyte&theme=onestar)
 
 </div>
 
