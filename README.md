@@ -116,6 +116,9 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
   > How they use your data? How much safer are you on the internet?
 
 ---
+## Support Me
+<a href="https://www.buymeacoffee.com/rhythmusbyte" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+---
 
 <details>
   <summary>⚡ My Card</summary>
