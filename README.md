@@ -19,6 +19,8 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 ## 🎯 Future Aspirations
 - [x] 🦄 Contribute to a project
 - [x] 📌 Get an internship in an IT company
+- [ ] ✳️ Learn **React**
+- [ ] 💙 Create a portfolio website using **React**
 - [ ] 🌼 Learn **Dart**
 - [ ] 🍀 Learn **Flutter**
 - [ ] 🚀 Create a project using **Flutter**
