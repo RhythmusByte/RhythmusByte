@@ -61,13 +61,13 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 - 👨‍💻 Languages
   <div align="center">
     <a href="https://rhythmusbytelinks.netlify.app">
-      <img src="https://skillicons.dev/icons?i=js,dart,flutter,python,java,html,css,c" alt="Languages">
+      <img src="https://skillicons.dev/icons?i=js,dart,python,java,html,css,c" alt="Languages">
     </a>
   </div>
 - 🏷️ Framework/Library/Database
   <div align="center">
     <a href="https://rhythmusbytelinks.netlify.app">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Frameworks and Libraries">
+      <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,mongodb" alt="Frameworks and Libraries">
     </a>
   </div>
 - 🎨 Design Tools
