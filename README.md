@@ -22,11 +22,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 - [ ] 🌼 Learn **Dart**
 - [ ] 🍀 Learn **Flutter**
 - [ ] 🚀 Create a project using **Flutter**
-<!-- 
-- [ ] ✳️ Learn **React**
-- [ ] 💙 Create a portfolio website using **React** 
--->
-> The list goes on and on....
+> The list goes on....
 
 ---
 
