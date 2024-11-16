@@ -9,7 +9,33 @@
 ---
 
 ## 🎀 About Me
-I'm Akhil Mahesh, and my dream job is to be a **software developer**. Right now, I'm studying computer applications at the esteemed University of Calicut.
+```java
+class AboutMe {
+  private String name;
+  private String role; 
+  private String pursuing;
+  private String studentAt;
+  private String[] languagesSpoken;
+
+  public AboutMe() {
+    this.name = "Akhil Mahesh";
+    this.role = "Student";
+    this.pursuing = "Bachelor of Computer Application";
+    this.studentAt = "University of Calicut";
+    this.languagesSpoken = new String[]{"English", "Malayalam", "Tamil"};
+
+  }
+
+  public void sayHi() {
+    System.out.println("Thanks for dropping by, hope you find my profile interesting!");
+  } 
+
+  public static void main(String[] args) {
+    AboutMe me = new AboutMe();
+    me.sayHi();
+  }
+}
+```
 
 ## 💡 Fun Fact
 My username "RhythmusByte" is a fusion of my love for music (since music is a part of my life) and my passion for programming.
