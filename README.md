@@ -61,7 +61,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 
 ## 🌟 Projects
 - [Weather Infoga](https://weatherinfoga.vercel.app)
-  > A weather app that fetches live weather data using [OpenWeatherMap](https://openweathermap.org) API.
+  > A weather app that fetches live weather data using [OpenWeatherMap](https://openweathermap.org) API <br>
   > Nb: Halted deployment for maintenance
 > More projects are on the way!
 
