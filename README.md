@@ -53,16 +53,16 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 ---
 
 ## 🪄 Recent GitHub Activities
-- Published a new project [WeatherInfoga](https://github.com/RhythmusByte/WeatherInfoga)
-- Completed a PR and made my mark in the '[Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)' repo! 
+- Upgrading my old [Linktree-style](https://github.com/RhythmusByte/LinkTree) website from plain HTML, CSS, and JS to a more dynamic version using [React](https://github.com/RhythmusByte/My-Linktree)
+- Put a halt for [WeatherInfoga](https://github.com/RhythmusByte/WeatherInfoga) project
+- Completed GitHub's [skills-introduction-to-github](https://github.com/RhythmusByte/skills-introduction-to-github) course
 
 ---
 
 ## 🌟 Projects
 - [Weather Infoga](https://weatherinfoga.vercel.app)
-  
-  > A weather app that fetches live weather data using [OpenWeatherMap](https://openweathermap.org) API.
-  
+    A weather app that fetches live weather data using [OpenWeatherMap](https://openweathermap.org) API.
+  > Halted deployment for maintenance
 > More projects are on the way!
 
 ---
