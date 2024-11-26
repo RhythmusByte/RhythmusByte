@@ -129,7 +129,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="250px" alt="Most Used Programming Languages">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmusbyte&theme=tokyonight&langs_count=10&layout=compact&hide_border=true)
 
 </div>
 
