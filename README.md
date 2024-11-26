@@ -118,10 +118,17 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 **Profile Views**<br>
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" alt="Total Profile Views Counter"><br>
 
-<a href="https://rhythmusbyte-github-streak.vercel.app"><img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=green-nur&fire=EB0000" alt="GitHub Contribution Streak" /></a>
+<a href="https://rhythmusbyte-github-streak.vercel.app"><img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=green-nur&fire=EB0000&hide_border=true" alt="GitHub Contribution Streak" /></a>
+
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&bg_color=21232a&color=a8eeff&line=E10000&point=f0fcff&area=true&hide_border" alt="GitHub Activity Contribution Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&bg_color=21232a&color=a8eeff&line=E10000&point=f0fcff&area=true&hide_border=true" alt="GitHub Activity Contribution Graph"/>
 <br/>
+
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhythmusbyte&show_icons=true&theme=transparent&hide_border=true&locale=en&rank_icon=percentile&include_all_commits=true)
+
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="250px" alt="Most Used Programming Languages">
 
 </div>
