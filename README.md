@@ -118,7 +118,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 **Profile Views**<br>
 <img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" alt="Total Profile Views Counter"><br>
 
-<a href="https://rhythmusbyte-github-streak.vercel.app"><img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=green-nur&fire=EB0000&hide_border=true" alt="GitHub Contribution Streak" /></a>
+<a href="https://rhythmusbyte-github-streak.vercel.app"><img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=tokyonight&fire=EB0000&hide_border=true" alt="GitHub Contribution Streak" /></a>
 
 <br>
 
@@ -129,7 +129,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="250px" alt="Most Used Programming Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythmusByte&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="250px" alt="Most Used Programming Languages">
 
 </div>
 
