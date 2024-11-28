@@ -16,13 +16,15 @@ class AboutMe {
   private String pursuing;
   private String studentAt;
   private String[] languagesSpoken;
+  private String[] programmingLanguages;
 
   public AboutMe() {
     this.name = "Akhil Mahesh";
     this.role = "Student";
     this.pursuing = "Bachelor of Computer Application";
     this.studentAt = "University of Calicut";
-    this.languagesSpoken = new String[]{"English", "Malayalam", "Tamil"};
+    this.languagesSpoken = new String[] {"english", "malayalam", "tamil"};
+    this.programmingLanguages  = new String[] {"javascript", "java", "dart", "python"};
   }
 
   public void sayHi() {
