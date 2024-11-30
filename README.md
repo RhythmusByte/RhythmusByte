@@ -23,7 +23,7 @@ class AboutMe {
     this.role = "Student";
     this.pursuing = "Bachelor of Computer Application";
     this.studentAt = "University of Calicut";
-    this.languagesSpoken = new String[] {"english", "malayalam", "tamil"};
+    this.languagesSpoken = new String[] {"en", "ml", "tamil"};
     this.programmingLanguages  = new String[] {"javascript", "java", "dart", "python"};
   }
 
