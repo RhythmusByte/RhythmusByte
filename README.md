@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&letterSpacing=initial&pause=1000&color=00F720&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Akhil+Mahesh+;Welcome+to+my+GitHub+profile+)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/develop-web.gif" alt="Developer working on a computer" height="200" width="325" />
+<a href="https://rhythmusbytelinks.vercel.app"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/develop-web.gif" alt="Developer working on a computer" height="200" width="325" /></a>
 
 </div> 
 
@@ -71,7 +71,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 ---
 
 ## 📬 Get In Touch
-> Interested in collaboration or just want to say hi? Reach out using the email on my GitHub profile or connect via [social media](https://rhythmusbytelinks.netlify.app)!
+> Interested in collaboration or just want to say hi? Reach out using the email on my GitHub profile or connect via [social media](https://rhythmusbytelinks.vercel.app)!
 
 <div align='center'>
 	
@@ -164,7 +164,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 <details>
   <summary>⚡ My Personal Card</summary>
   <div align="center">
-    <img alt="Personal Introduction Card" src="https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Software%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://raw.githubusercontent.com/RhythmusByte/My-Linktree/refs/heads/main/src/assets/pfp.jpg&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://rhythmusbytelinks.netlify.app&pattern=leaf&opacity=0.1&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte" />
+    <img alt="Personal Introduction Card" src="https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Software%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://raw.githubusercontent.com/RhythmusByte/My-Linktree/refs/heads/main/src/assets/pfp.jpg&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://rhythmusbytelinks.vercel.app&pattern=leaf&opacity=0.1&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte" />
   </div>
 </details>
 
