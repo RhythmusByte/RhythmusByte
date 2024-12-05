@@ -143,14 +143,9 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 </div>
 
 ## 📝 Latest Blog Posts
-- [6 Useful Resources; Front-End Development Part II](https://medium.com/@rhythmusbyte/frontend-development-resources-633188cecf22)
-  > Part 2 of the **useful resources for aspiring front-end developers** series
+- [6 Useful Resources for Beginners in Front-end Development](https://rhythmusbyte.wordpress.com/2024/12/05/6-useful-resources-for-beginner-in-front-end-development/)
   
-- [6 Useful Resources; Front-End Development](https://medium.com/@rhythmusbyte/6-useful-resources-for-beginners-front-end-development-f6332f4ad3de)
-  > Six invaluable resources for aspiring front-end developers
-
-- [Privacy is Important](https://medium.com/@rhythmusbyte/privacy-is-important-a98c85ad1969)
-  > Understanding data usage and internet privacy
+   > Six invaluable resources for aspiring front-end developers 
 
 <!--
 
