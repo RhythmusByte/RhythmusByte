@@ -73,7 +73,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 ## 📬 Get In Touch
 > Interested in collaboration or just want to say hi? Reach out using the email on my GitHub profile or connect via [social media](https://rhythmusbytelinks.vercel.app)!
 
-<div align='center'>
+<div align="center">
 	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhythmusbyte) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rhythmusbyte) 
