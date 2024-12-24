@@ -57,7 +57,7 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 ---
 
 ## 🪄 Recent GitHub Activities
-- Upgrading my old [Linktree-style](https://github.com/RhythmusByte/LinkTree) website from plain HTML, CSS, and JS to a more dynamic version using [React](https://github.com/RhythmusByte/My-Linktree)
+- Upgraded my old [Linktree-style](https://github.com/RhythmusByte/LinkTree) website from vanilla HTML, CSS, and JS to a more dynamic version using [React](https://github.com/RhythmusByte/My-Linktree)
 - Pausing development on [WeatherInfoga](https://github.com/RhythmusByte/WeatherInfoga) project for improvements
 - Completed GitHub's [skills-introduction-to-github](https://github.com/RhythmusByte/skills-introduction-to-github) course
 
