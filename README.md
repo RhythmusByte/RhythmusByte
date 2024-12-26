@@ -11,30 +11,21 @@
 ## 🎀 About Me
 ```java
 class AboutMe {
-  private String name;
-  private String role; 
-  private String pursuing;
-  private String studentAt;
-  private String[] languagesSpoken;
-  private String[] programmingLanguages;
+    private String name = "Akhil Mahesh";
+    private String role = "Student";
+    private String pursuing = "Bachelor of Computer Application";
+    private String studentAt = "University of Calicut";
+    private String[] languagesSpoken = {"English", "Malayalam", "Tamil"};
+    private String[] programmingLanguages = {"JavaScript", "Java", "Dart", "Python"};
 
-  public AboutMe() {
-    this.name = "Akhil Mahesh";
-    this.role = "Student";
-    this.pursuing = "Bachelor of Computer Application";
-    this.studentAt = "University of Calicut";
-    this.languagesSpoken = new String[] {"english", "malayalam", "tamil"};
-    this.programmingLanguages  = new String[] {"javascript", "java", "dart", "python"};
-  }
+    public void sayHi() {
+        System.out.println("Thanks for dropping by, hope you find my profile interesting!");
+    }
 
-  public void sayHi() {
-    System.out.println("Thanks for dropping by, hope you find my profile interesting!");
-  } 
-
-  public static void main(String[] args) {
-    AboutMe me = new AboutMe();
-    me.sayHi();
-  }
+    public static void main(String[] args) {
+        AboutMe me = new AboutMe();
+        me.sayHi();
+    }
 }
 ```
 
