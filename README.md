@@ -40,8 +40,8 @@ My username "RhythmusByte" is a fusion of my love for music (since music is a pa
 - [ ] 🌼 Learn **Dart**
 - [ ] 🍀 Learn **Flutter**
 - [ ] 🚀 Create a project using **Flutter**
-- [ ] 🧮 Learn Java
-- [ ] 🧺 Master Data Structures and Algorithms using Java/Dart
+- [ ] 🧮 Learn **Java**
+- [ ] 🧺 Master *Data Structures and Algorithms using Java*
 - [ ] 🔥 Achieve a 100-day streak on GitHub
 > The journey of learning continues....
 
