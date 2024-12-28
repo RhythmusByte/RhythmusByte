@@ -30,7 +30,7 @@ class AboutMe {
 ```
 
 ## 💡 Fun Fact
-My username "RhythmusByte" is a fusion of my love for music (since music is a part of my life) and my passion for programming.
+The username "RhythmusByte" is a fusion of my love for music and my passion for programming.
 
 ---
 
