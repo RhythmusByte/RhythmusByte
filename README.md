@@ -72,6 +72,8 @@ My username **"RhythmusByte"** is a fusion of my love for music and my passion f
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rhythmusbyte) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/RhythmusByte) 
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RhythmusByte)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/u/RhythmusByte)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%231DA1F2.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rhythmusbyte.bsky.social)
 
 </div>
 
