@@ -11,7 +11,8 @@
 ## 🎀 About Me
 ```java
 class AboutMe {
-    private String name = "Akhil Mahesh";
+    private String firstName = "Akhil";
+    private String lastName = "Mahesh";
     private String role = "Student";
     private String pursuing = "Bachelor of Computer Application";
     private String studentAt = "University of Calicut";
