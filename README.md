@@ -178,5 +178,3 @@ My username **"RhythmusByte"** is a fusion of my love for music and my passion f
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Inspirational Random Quotes">
   </div>
 </details>
-
----
