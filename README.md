@@ -41,6 +41,7 @@ My username **"RhythmusByte"** is a fusion of my love for music and my passion f
 - [ ] 🌼 Learn **Dart** and **Flutter**
 - [ ] 🚀 Create a project using **Flutter**
 - [ ] 🧮 Learn **Java**
+- [ ] 🐍 Learn **Python**
 - [ ] 🧺 Master *Data Structures and Algorithms using Java*
 - [ ] 🔥 Achieve a 100-day streak on GitHub
 > The journey of learning continues....
