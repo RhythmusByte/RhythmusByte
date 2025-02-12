@@ -43,7 +43,7 @@ EPOCHS = 20
 VALIDATION_SPLIT = 0.2
 
 # Set up paths
-DATASET_PATH = '/content/drive/MyDrive/Project/dataset_train'
+DATASET_PATH = '/content/drive/MyDrive/Project/dataset_train' # change this path according to the drive
 TEMP_DIR = '/content/temp_split'
 MODEL_SAVE_DIR = '/content/drive/MyDrive/Project/model'
 
