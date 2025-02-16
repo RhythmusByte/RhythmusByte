@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&letterSpacing=initial&pause=1000&color=00F720&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Akhil+Mahesh+;Welcome+to+my+GitHub+profile+)](https://git.io/typing-svg)
 
-<a href="https://rhythmusbytelinks.vercel.app"><img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/develop-web.gif" alt="Developer working on a computer" height="200" width="325" /></a>
+<a href="https://rhythmusbytelinks.vercel.app">
+    <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/develop-web.gif" alt="Developer working on a computer" height="200" width="325" />
+</a>
 
 </div> 
 
@@ -40,24 +42,36 @@ My username **"RhythmusByte"** is a fusion of my love for music and my passion f
 - [x] 📌 Get an internship in an IT company
 - [ ] 🌼 Learn **Dart** and **Flutter**
 - [ ] 🚀 Create a project using **Flutter**
-- [ ] 🧮 Learn **Java**
-- [ ] 🐍 Learn **Python**
-- [ ] 🧺 Master *Data Structures and Algorithms using Java*
+- [ ] 🧮 Master *Data Structures and Algorithms using Java*
 - [ ] 🔥 Achieve a 100-day streak on GitHub
-> The journey of learning continues....
+> The journey of learning continues...
 
 ---
 
-## 🪄 Recent GitHub Activities
-- Right now, I'm working on a project that converts **[American Sign Language to Speech](https://github.com/RhythmusByte/Sign-Language-to-Speech)** using Python, CNN, Keras, TensorFlow, and more.
-  > It's my final year project!  
-- I have enhanced my previous [Linktree](https://github.com/RhythmusByte/My-Linktree) website, transitioning from basic HTML, CSS, and JavaScript to a more dynamic version utilizing React.
+<details>
+  <summary>⚡ My Personal Card</summary>
+  <div align="center">
+    <img alt="Personal Introduction Card" src="https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Software%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://raw.githubusercontent.com/RhythmusByte/My-Linktree/refs/heads/main/src/assets/pfp.jpg&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://rhythmusbytelinks.vercel.app&pattern=leaf&opacity=0.1&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte" />
+  </div>
+</details>
+
+## 🚀 Recent GitHub Activities
+- 🔥 **Currently Working On:**  
+  - 🧏‍♂️ **[Sign Language to Speech](https://github.com/RhythmusByte/Sign-Language-to-Speech)** (Real-Time)  
+    - Uses **Python, CNN, Keras, TensorFlow**  
+    - Converts **ASL gestures into speech**  
+- ⚡ **Previous Work:**
+  - 🌐 **Upgraded [My Linktree](https://github.com/RhythmusByte/LinkTree) with React**  
+    - Transitioning from **HTML/CSS/JS** → **React** for better UX  
 
 ---
 
 ## 🌟 Projects
-- [Sign Language to Speech Conversion](https://github.com/RhythmusByte/Sign-Language-to-Speech) is a project focuses on converting American Sign Language to speech utilizing Python, CNN, Keras, TensorFlow, among other technologies, and it serves as my final year project for college.
-  > ⚠️ Under Development
+- 🧏‍♂️ **[Sign Language to Speech Conversion](https://github.com/RhythmusByte/Sign-Language-to-Speech)**  
+  - ⚡ **Real-time application** for **converting ASL gestures to speech**  
+  - 🧠 Built with **Python, CNN, Keras, TensorFlow**  
+  - 🏗️ **Currently in development**  
+
 > More exciting projects are in the pipeline!
 
 ---
@@ -79,42 +93,33 @@ My username **"RhythmusByte"** is a fusion of my love for music and my passion f
 ---
 
 ## 💻 Tech Stack
-- 👨‍💻 Languages
-  <div align="center">
-    <a href="https://rhythmusbytelinks.netlify.app">
-      <img src="https://skillicons.dev/icons?i=js,dart,python,java,html,css,c" alt="Programming Languages I Know">
-    </a>
-  </div>
-- 🏷️ Frameworks/Libraries/Databases
-  <div align="center">
-    <a href="https://rhythmusbytelinks.netlify.app">
-      <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,mongodb" alt="Frameworks, Libraries, and Databases">
-    </a>
-  </div>
-- 🎨 Design Tools
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Canva.svg" height="50px" width="50px" alt="Canva Design Tool">
-    <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/Lightroom.svg" height="50px" width="50px" alt="Adobe Lightroom">
-    <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/photoshop-svgrepo-com.svg" height="50px" width="50px" alt="Adobe Photoshop">
-  </div>
-- 🌐 Hosting Platforms
-  <div align="center">
-    
-    ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-  
-  </div>
+### 👨‍💻 Programming Languages
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![Dart](https://skillicons.dev/icons?i=dart)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### 🏗️ Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+### 📊 Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### 🛠️ Tools & Platforms
+![GitHub](https://skillicons.dev/icons?i=github)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Netlify](https://skillicons.dev/icons?i=netlify)
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <div align='center'>
 
-**Profile Views**<br>
-<img src="https://profile-counter.glitch.me/RhythmusByte/count.svg" alt="Total Profile Views Counter"><br>
-
-<a href="https://rhythmusbyte-github-streak.vercel.app"><img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=tokyonight&fire=EB0000&hide_border=true" alt="GitHub Contribution Streak" /></a>
+<a href="https://rhythmusbyte-github-streak.vercel.app">
+    <img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=tokyonight&fire=EB0000&hide_border=true" alt="GitHub Contribution Streak" />
+</a>
 
 <br>
 
@@ -129,6 +134,8 @@ My username **"RhythmusByte"** is a fusion of my love for music and my passion f
 
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
 <div align="center">
 
@@ -141,35 +148,7 @@ My username **"RhythmusByte"** is a fusion of my love for music and my passion f
   
    > Six invaluable resources for aspiring front-end developers 
 
-<!--
-
-## Support My Work
-<div align='center'>
-	<a href="https://www.buymeacoffee.com/rhythmusbyte" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Support my work by buying me a coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>	
--->
 ---
-
-<details>
-  <summary>⚡ My Personal Card</summary>
-  <div align="center">
-    <img alt="Personal Introduction Card" src="https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Software%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://raw.githubusercontent.com/RhythmusByte/My-Linktree/refs/heads/main/src/assets/pfp.jpg&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://rhythmusbytelinks.vercel.app&pattern=leaf&opacity=0.1&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte" />
-  </div>
-</details>
-
-<details>
-	<summary>🚀 Roadmap Progress</summary>
-	<div align="center">
-		<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668538371fed2580f15b6a7e?variant=dark&roadmaps=flutter%2C66857e6b4f63a827cb30673c" alt="roadmap.sh"/></a>
-	</div>
-</details>
-
-<details>
-  <summary>✨ Dev Card</summary>
-  <div align="center">
-    <a href="https://app.daily.dev/rhythmusbyte" target="_blank"><img src="https://api.daily.dev/devcards/v2/wA0qWULB3YHcAyN43REdC.png?type=default&r=rr1" width="356" alt="Akhil Mahesh's Daily Dev Card"/></a>
-  </div>
-</details>
 
 <details>
   <summary>🖋️ Random Quotes</summary>
