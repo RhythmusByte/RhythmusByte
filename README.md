@@ -49,16 +49,15 @@ My username **"RhythmusByte"** is a fusion of my love for music and my passion f
 ---
 
 ## 🪄 Recent GitHub Activities
-- Upgraded my old [Linktree-style](https://github.com/RhythmusByte/LinkTree) website from vanilla HTML, CSS, and JS to a more dynamic version using [React](https://github.com/RhythmusByte/My-Linktree)
-- Pausing development on [WeatherInfoga](https://github.com/RhythmusByte/WeatherInfoga) project for improvements
-- Completed GitHub's [skills-introduction-to-github](https://github.com/RhythmusByte/skills-introduction-to-github) course
+- Right now, I'm working on a project that converts **[American Sign Language to Speech](https://github.com/RhythmusByte/Sign-Language-to-Speech)** using Python, CNN, Keras, TensorFlow, and more.
+  > It's my final year project!  
+- I have enhanced my previous [Linktree](https://github.com/RhythmusByte/My-Linktree) website, transitioning from basic HTML, CSS, and JavaScript to a more dynamic version utilizing React.
 
 ---
 
 ## 🌟 Projects
-- [Weather Infoga](https://weatherinfoga.vercel.app)
-  > A weather app that fetches live weather data using [OpenWeatherMap](https://openweathermap.org) API <br>
-  > Note: Temporarily halted deployment for maintenance and enhancements
+- [Sign Language to Speech Conversion](https://github.com/RhythmusByte/Sign-Language-to-Speech) is a project focuses on converting American Sign Language to speech utilizing Python, CNN, Keras, TensorFlow, among other technologies, and it serves as my final year project for college.
+  > ⚠️ Under Development
 > More exciting projects are in the pipeline!
 
 ---
