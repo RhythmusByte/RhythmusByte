@@ -1,159 +1,91 @@
-<div align='center' >
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&letterSpacing=initial&pause=1000&color=00F720&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Akhil+Mahesh+;Welcome+to+my+GitHub+profile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=00F720&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Akhil+Mahesh;BCA+Student+%7C+AI+Enthusiast;Welcome+to+my+GitHub+profile+)](https://git.io/typing-svg)
 
-<a href="https://rhythmusbytelinks.vercel.app">
-    <img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/develop-web.gif" alt="Developer working on a computer" height="200" width="325" />
+<img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/develop-web.gif" alt="Developer working animation" height="200" width="325" />
+
+</div>
+
+---
+
+## 👨💻 About Me
+- 🎓 Pursuing Bachelor of Computer Applications at University of Calicut
+- 💡 Passionate about AI/ML and emerging technologies
+- 🌱 Currently learning Dart/Flutter & advancing Java skills
+- 🎶 Love for music inspired my username "RhythmusByte"
+- 📫 Reach me: [akhilmahesh@proton.me](mailto:akhilmahesh@proton.me) | [Socials](https://rhythmusbytelinks.vercel.app)
+
+---
+
+## 🛠️ Tech Stack
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### **Frameworks & Tools**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### **Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### Sign Language to Speech Conversion
+[![GitHub Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhythmusByte/Sign-Language-to-Speech)
+- Real-time ASL gesture recognition system using Python and CNN
+- Tech: Python, TensorFlow, Keras, OpenCV
+- Status: Active development
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<a href="https://rhythmusbyte-github-streak.vercel.app">
+    <img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=transparent&fire=EB0000&hide_border=true" alt="GitHub Contribution Streak" />
 </a>
 
-</div> 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&theme=react-dark&hide_border=true&area=true)
+
+| ![Overview](https://github-readme-stats.vercel.app/api?username=rhythmusbyte&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmusbyte&layout=compact&theme=transparent&hide_border=true) |
+| --- | --- |
+
+</div>
 
 ---
 
-## 🎀 About Me
-```java
-class AboutMe {
-    private String firstName = "Akhil";
-    private String lastName = "Mahesh";
-    private String role = "Student";
-    private String pursuing = "Bachelor of Computer Application";
-    private String studentAt = "University of Calicut";
-    private String[] languagesSpoken = {"English", "Malayalam", "Tamil"};
-    private String[] programmingLanguages = {"JavaScript", "Java", "Dart", "Python"};
+## 📬 Let's Connect
+<div align="center">
 
-    public void sayHi() {
-        System.out.println("Thanks for dropping by, hope you find my profile interesting!");
-    }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhythmusbyte)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RhythmusByte)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rhythmusbyte)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rhythmusbytelinks.vercel.app)
 
-    public static void main(String[] args) {
-        AboutMe me = new AboutMe();
-        me.sayHi();
-    }
-}
-```
-
-## 💡 Fun Fact
-My username **"RhythmusByte"** is a fusion of my love for music and my passion for programming.
-
----
-
-## 🎯 Future Aspirations
-- [x] 🦄 Contribute to a project
-- [x] 📌 Get an internship in an IT company
-- [ ] 🌼 Learn **Dart** and **Flutter**
-- [ ] 🌙 Learn **Java** and create a project in it
-- [ ] 🚀 Create a project using **Flutter**
-- [ ] 🧮 Master *Data Structures and Algorithms using Java*
-- [ ] 🔥 Achieve a 100-day streak on GitHub
-> The journey of learning continues...
+</div>
 
 ---
 
 <details>
-  <summary>⚡ My Personal Card</summary>
-  <div align="center">
-    <img alt="Personal Introduction Card" src="https://cardivo.vercel.app/api?name=Akhil%20Mahesh&description=Aspiring%20Software%20Developer%20with%20a%20keen%20interest%20in%20Artificial%20Intelligence%20and%20emerging%20technologies.%20Trying%20to%20do%20better%20everyday.&image=https://raw.githubusercontent.com/RhythmusByte/My-Linktree/refs/heads/main/src/assets/pfp.jpg&backgroundColor=%23ffffff&iconColor=%23000000&fontColor=%23000000&colorPattern=%23EB00014A&site=https://rhythmusbytelinks.vercel.app&pattern=leaf&opacity=0.1&instagram=@rhythmusbyte&linkedin=rhythmusbyte&github=RhythmusByte&twitter=@RhythmusByte" />
-  </div>
+<summary>📚 Recent Blog Post</summary>
+
+### [6 Essential Front-end Development Resources](https://rhythmusbyte.wordpress.com/2024/12/05/6-useful-resources-for-beginner-in-front-end-development/)
+Curated list of tools and learning materials for aspiring developers
+
 </details>
-
-## 🚀 Recent GitHub Activities
-- 🔥 **Currently Working On:**  
-  - 🧏‍♂️ **[Sign Language to Speech](https://github.com/RhythmusByte/Sign-Language-to-Speech)** (Real-Time)  
-    - Uses **Python, CNN, Keras, TensorFlow**  
-    - Converts **ASL gestures into speech**  
-- ⚡ **Previous Work:**
-  - 🌐 **Upgraded [My Linktree](https://github.com/RhythmusByte/LinkTree) with React**  
-    - Transitioning from **HTML/CSS/JS** → **React** for better UX  
-
----
-
-## 🌟 Projects
-- 🧏‍♂️ **[Sign Language to Speech Conversion](https://github.com/RhythmusByte/Sign-Language-to-Speech)**  
-  - ⚡ **Real-time application** for **converting ASL gestures to speech**  
-  - 🧠 Built with **Python, CNN, Keras, TensorFlow**  
-  - 🏗️ **Currently in development**  
-
-> More exciting projects are in the pipeline!
-
----
-
-## 📬 Get In Touch
-> Interested in collaboration or just want to say hi? Reach out using the email on my GitHub profile or connect via [social media](https://rhythmusbytelinks.vercel.app)!
-
-<div align="center">
-	
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhythmusbyte) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rhythmusbyte) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/RhythmusByte) 
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RhythmusByte)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/u/RhythmusByte)
-[![Bluesky](https://img.shields.io/badge/Bluesky-%231DA1F2.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rhythmusbyte.bsky.social)
-
-</div>
-
----
-
-## 💻 Tech Stack
-### 👨‍💻 Programming Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![Dart](https://skillicons.dev/icons?i=dart)
-![JavaScript](https://skillicons.dev/icons?i=js)
-
-### 🏗️ Frameworks & Libraries
-![React](https://skillicons.dev/icons?i=react)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-
-### 📊 Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-### 🛠️ Tools & Platforms
-![GitHub](https://skillicons.dev/icons?i=github)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-
----
-
-## 📊 GitHub Stats
-<div align='center'>
-
-<a href="https://rhythmusbyte-github-streak.vercel.app">
-    <img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=tokyonight&fire=EB0000&hide_border=true" alt="GitHub Contribution Streak" />
-</a>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&bg_color=21232a&color=a8eeff&line=E10000&point=f0fcff&area=true&hide_border=true" alt="GitHub Activity Contribution Graph"/>
-<br/>
-
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhythmusbyte&show_icons=true&theme=transparent&hide_border=true&locale=en&rank_icon=percentile&include_all_commits=true)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmusbyte&theme=tokyonight&langs_count=8&layout=compact&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=rhythmusbyte&theme=onestar)
-
-</div>
-
-## 📝 Latest Blog Posts
-- [6 Useful Resources for Beginners in Front-end Development](https://rhythmusbyte.wordpress.com/2024/12/05/6-useful-resources-for-beginner-in-front-end-development/)
-  
-   > Six invaluable resources for aspiring front-end developers 
-
----
-
 <details>
   <summary>🖋️ Random Quotes</summary>
   <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Inspirational Random Quotes">
   </div>
-</details>
+</details> 
