@@ -13,7 +13,7 @@
 - 💡 Passionate about AI/ML and emerging technologies
 - 🌱 Currently learning Dart/Flutter & advancing Java skills
 - 🎶 Love for music inspired my username "RhythmusByte"
-- 📫 Reach me: [akhilmahesh@proton.me](mailto:akhilmahesh@proton.me) | [Socials](https://rhythmusbytelinks.vercel.app)
+- 📫 Reach me: [akhilmahesh@proton.me](mailto:akhilmahesh@proton.me) | [Other Socials](https://rhythmusbytelinks.vercel.app)
 
 ---
 
