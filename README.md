@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Akhil+Mahesh;A+BCA+Student,+learning+and+coding;Welcome+to+my+GitHub" alt="Typing SVG">
 
-<img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/Images/develop-web.gif" alt="Developer working animation" height="200" width="325" />
+<img src="https://raw.githubusercontent.com/RhythmusByte/RhythmusByte/alone-patch/develop-web.gif" alt="Developer working animation" height="200" width="325" />
 
 </div>
 
