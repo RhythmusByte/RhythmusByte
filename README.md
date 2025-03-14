@@ -40,7 +40,7 @@
 ## 🏆 Featured Projects
 
 ### Sign Language to Speech Conversion
-[![GitHub Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhythmusByte/Sign-Language-to-Speech)   [![Status: Under Development](https://img.shields.io/badge/Status-Under%20Development-4169E1?style=for-the-badge)]()
+[![GitHub Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhythmusByte/Sign-Language-to-Speech)   [![Status: Halted Development](https://img.shields.io/badge/Status-Halted%20Development-4169E1?style=for-the-badge)]()
 - Real-time ASL gesture recognition system using Python and CNN
 - Tech: Python, TensorFlow, Keras, OpenCV
 
