@@ -77,7 +77,7 @@
 <details>
 <summary>📚 Recent Blog Post</summary>
 
-### [6 Essential Front-end Development Resources](https://rhythmusbyte.wordpress.com/2024/12/05/6-useful-resources-for-beginner-in-front-end-development/)
+### [6 Essential Front-end Development Resources](https://rhythmusbyte.blogspot.com/2024/07/6-useful-resources-front-end-development.html)
 Curated list of tools and learning materials for aspiring developers
 
 </details>
