@@ -77,6 +77,8 @@
 <details>
 <summary>📚 Recent Blog Post</summary>
 
+### [Become a Software Developer Using Your Android Device](https://rhythmusbyte.blogspot.com/2025/03/coding-on.html)
+Explore how to build a coding career using your smartphone. 
 ### [6 Essential Front-end Development Resources](https://rhythmusbyte.blogspot.com/2024/07/6-useful-resources-front-end-development.html)
 Curated list of tools and learning materials for aspiring developers
 
