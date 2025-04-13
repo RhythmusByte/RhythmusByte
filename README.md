@@ -9,9 +9,9 @@
 ---
 
 ## 👨💻 About Me
-- 🎓 Pursuing Bachelor of Computer Applications at University of Calicut
+- 🎓 Graduated with a Bachelor of Computer Application at the University of Calicut
 - 💡 Passionate about AI/ML and emerging technologies
-- 🌱 Currently learning Dart/Flutter & advancing Java skills
+- 🌱 Currently learning MySQL & advancing Java skills
 - 🎶 Love for music inspired my username "RhythmusByte"
 - 📫 Reach me: [akhilmahesh@proton.me](mailto:akhilmahesh@proton.me) | [Other Socials](https://rhythmusbytelinks.vercel.app)
 
@@ -40,7 +40,7 @@
 ## 🏆 Featured Projects
 
 ### Sign Language to Speech Conversion
-[![GitHub Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhythmusByte/Sign-Language-to-Speech)   [![Status: Halted Development](https://img.shields.io/badge/Status-Halted%20Development-4169E1?style=for-the-badge)]()
+[![GitHub Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhythmusByte/Sign-Language-to-Speech)   <!--[![Status: Halted Development](https://img.shields.io/badge/Status-Halted%20Development-4169E1?style=for-the-badge)]() -->
 - Real-time ASL gesture recognition system using Python and CNN
 - Tech: Python, TensorFlow, Keras, OpenCV
 
