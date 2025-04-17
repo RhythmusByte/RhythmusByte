@@ -11,7 +11,7 @@
 ## 👨💻 About Me
 - 🎓 Graduated with a Bachelor of Computer Application at the University of Calicut
 - 💡 Passionate about AI/ML and emerging technologies
-- 🌱 Currently learning MySQL & advancing Java skills
+- 🌱 Currently working on a new project [Java For Beginners](https://github.com/RhythmusByte/java-for-beginners)
 - 🎶 Love for music inspired my username "RhythmusByte"
 - 📫 Reach me: [akhilmahesh@proton.me](mailto:akhilmahesh@proton.me) | [Other Socials](https://rhythmusbytelinks.vercel.app)
 
