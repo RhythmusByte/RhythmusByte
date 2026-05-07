@@ -51,6 +51,16 @@
 
 ---
 
+## 🌍 Supporting Open Source
+
+I believe software should be free, open, and community-driven. All my new projects are now primarily hosted on **[Codeberg](https://codeberg.org/RhythmusByte)** -- a non-profit, FOSS-friendly platform built on Gitea -- as a commitment to supporting the open source ecosystem.
+
+GitHub mirrors of all new projects are available here, but may lag behind the primary Codeberg repository. Older projects remain on GitHub as-is.
+
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/RhythmusByte)
+
+---
+
 ## 📈 GitHub Analytics
 
 <div align="center">
