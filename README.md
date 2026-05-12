@@ -77,7 +77,7 @@ GitHub mirrors of all new projects are available here, but may lag behind the pr
 
 ---
 
-<!-- Blog posts paused -->
+<!-- Blog posts -->
 <!-- 
 <details>
 <summary>📚 Recent Blog Posts</summary>
