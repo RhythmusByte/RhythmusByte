@@ -67,11 +67,10 @@ GitHub mirrors of all new projects are available here, but may lag behind the pr
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&theme=react-dark&hide_border=true&area=true)
 
-<!-- | <img src="https://github-readme-stats.vercel.app/api?username=rhythmusbyte&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" width="400"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmusbyte&layout=compact&theme=transparent&hide_border=true" width="300"> |
+| <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rhythmusbyte?cardType=level&theme=tokyonight&fontFamily=Josefin%20Sans&preferLogin=false&Ring=EB0000" width="400"> | <img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=tokyonight&fire=EB0000&hide_border=true" alt="GitHub Contribution Streak" width="400"> |
 | :---: | :---: |
--->
 
-<img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=transparent&fire=EB0000&hide_border=true" alt="GitHub Contribution Streak" />
+
 
 </div>
 
