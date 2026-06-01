@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Akhil+Mahesh;Developer+%26+ML+Enthusiast;Welcome+to+my+GitHub" alt="Typing SVG">
+<a href="akhilmahesh.com"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Akhil+Mahesh;Developer+%26+ML+Enthusiast;Welcome+to+my+GitHub" alt="Typing SVG"></a>
 <br>
 <img src="develop-web.gif" alt="Developer working animation" height="180" />
 
