@@ -87,17 +87,21 @@ Newer projects may be mirrored on GitHub for visibility, while development, cont
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph">
 
-<br><br>
+<br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=RhythmusByte&layout=compact&langs_count=8&hide_values=true&theme=aura" alt="Most Used Languages">
-
-<br><br>
-
-<img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=aura&hide_border=true" alt="Contribution Streak">
-
-<br><br>
-
-<img src="https://github-stats-extended.vercel.app/api?username=RhythmusByte&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=aura" alt="GitHub Statistics">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RhythmusByte&layout=compact&langs_count=8&hide_values=true&theme=aura" alt="Most Used Languages">
+    </td>
+    <td align="center">
+      <img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=aura&hide_border=true" alt="Contribution Streak">
+    </td>
+    <td align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=RhythmusByte&custom_title=Git%20Stats&show_icons=true&include_all_commits=true&theme=aura" alt="GitHub Statistics">
+    </td>
+  </tr>
+</table>
 
 </div>
 
