@@ -80,7 +80,7 @@ Newer projects may be mirrored on GitHub for visibility, while development, cont
 ---
 
 <details>
-<summary>Recent Blog Post</summary>
+<summary><b>Recent Blog Post</b></summary>
 
 - [Late Night Internet Has a Different Atmosphere](https://blogs.akhilmahesh.com/posts/late-night-internet/)
 
@@ -92,15 +92,16 @@ Newer projects may be mirrored on GitHub for visibility, while development, cont
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph">
-
-<br>
-
 <table>
   <tr>
     <td align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhythmusbyte&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph">
+    </td>
+    <td align="center">
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RhythmusByte&layout=compact&langs_count=8&hide_values=true&theme=aura" alt="Most Used Languages">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://rhythmusbyte-github-streak.vercel.app?user=RhythmusByte&theme=aura&hide_border=true" alt="Contribution Streak">
     </td>
